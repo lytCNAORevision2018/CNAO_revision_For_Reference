@@ -1,0 +1,53 @@
+\documentclass[a4paper,12pt,titlepage,oneside]{ctexbook}
+\usepackage[utf8]{inputenc}
+\usepackage{graphics,physics}
+\usepackage{subfigure,mhchem}
+\usepackage[graphicx]{realboxes}
+\usepackage{makecell}
+\usepackage{ctexcap,indentfirst,booktabs}
+\usepackage{amsmath,amssymb,amsfonts}
+\usepackage{autobreak,geometry,subcaption}
+\geometry{left=25mm,right=20mm,top=25mm,bottom=25mm}
+\makeatletter
+\newcommand{\rmnum}[1]{\romannumeral #1}
+\newcommand{\Rmnum}[1]{\expandafter\@slowromancap\romannumeral #1@}
+\makeatother
+\usepackage{fancyhdr}
+\fancypagestyle{plain}%
+\fancyhf{} % 清空当前设置
+% 设置页眉 (head)
+\fancyhead[LO,LE]{CNAO复习资料第十六版}
+\fancyfoot[RO,RE]{使持节都督天文奥赛复习充电站诸军事 撰}
+\renewcommand{\headrulewidth}{0.5pt} % 页眉与正文之间的水平线粗细
+\renewcommand{\footrulewidth}{0.5pt}
+\pagestyle{fancy} % 选用 fancy style
+\usepackage{tikz,xcolor,eso-pic}
+\usepackage{tabularx, makecell, multirow}
+
+\usepackage[center]{titlesec}%chapter1修改为第1章
+\titleformat{\chapter}{\raggedright\Huge\bfseries}{第\,\thechapter\,章}{1em}{}
+\titleformat{\section}{\raggedright\Large\bfseries}{\,\thesection\,}{1em}{}
+\titleformat{\subsection}{\raggedright\large\bfseries}{\,\thesubsection\,}{1em}{}
+
+
+
+\begin{document}
+
+\author{开府仪同三司 \ 使持节都督CNAO复习充电站诸军事 \ 李轩辕 \ 撰}
+\title{CNAO复习资料第十六版}
+\date{2023年2月4日}
+\frontmatter
+\maketitle
+\tableofcontents
+
+\mainmatter
+\include{./TeX_files/chapter01}
+\include{./TeX_files/chapter02}
+\include{./TeX_files/chapter03}
+\include{./TeX_files/chapter04}
+
+
+\backmatter
+% bibliography, glossary and index would go here.
+
+\end{document}

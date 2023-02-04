@@ -1,0 +1,3356 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.31)  4 FEB 2023 11:19
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**main.tex
+(./main.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-02-24>
+(d:/texlive/texlive/2022/texmf-dist/tex/latex/ctex/ctexbook.cls
+(d:/texlive/texlive/2022/texmf-dist/tex/latex/ctex/config/ctexbackend.cfg
+File: ctexbackend.cfg 2021/12/12 v2.5.8 Backend configuration file (CTEX)
+)
+(d:/texlive/texlive/2022/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2022-02-24 L3 programming layer (loader) 
+
+(d:/texlive/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count185
+\l__pdf_internal_box=\box50
+))
+Document Class: ctexbook 2021/12/12 v2.5.8 Chinese adapter for class book (CTEX
+)
+(d:/texlive/texlive/2022/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2022-01-12 L3 Experimental document command parser
+)
+(d:/texlive/texlive/2022/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2022-01-12 LaTeX2e option processing using LaTeX3 keys
+) (d:/texlive/texlive/2022/texmf-dist/tex/latex/ctex/ctexhook.sty
+Package: ctexhook 2021/12/12 v2.5.8 Document and package hooks (CTEX)
+)
+(d:/texlive/texlive/2022/texmf-dist/tex/latex/ctex/ctexpatch.sty
+Package: ctexpatch 2021/12/12 v2.5.8 Patching commands (CTEX)
+)
+(d:/texlive/texlive/2022/texmf-dist/tex/latex/base/fix-cm.sty
+Package: fix-cm 2020/11/24 v1.1t fixes to LaTeX
+
+(d:/texlive/texlive/2022/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
+))
+\l__ctex_tmp_int=\count186
+\l__ctex_tmp_box=\box51
+\l__ctex_tmp_dim=\dimen138
+\g__ctex_section_depth_int=\count187
+\g__ctex_font_size_int=\count188
+
+(d:/texlive/texlive/2022/texmf-dist/tex/latex/ctex/config/ctexopts.cfg
+File: ctexopts.cfg 2021/12/12 v2.5.8 Option configuration file (CTEX)
+)
+
+Package ctex Warning: UTF8 will be used as the default encoding.
+
+(d:/texlive/texlive/2022/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2021/10/04 v1.4n Standard LaTeX document class
+(d:/texlive/texlive/2022/texmf-dist/tex/latex/base/bk12.clo
+File: bk12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count189
+\c@chapter=\count190
+\c@section=\count191
+\c@subsection=\count192
+\c@subsubsection=\count193
+\c@paragraph=\count194
+\c@subparagraph=\count195
+\c@figure=\count196
+\c@table=\count197
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen139
+)
+(d:/texlive/texlive/2022/texmf-dist/tex/latex/ctex/engine/ctex-engine-pdftex.de
+f
+File: ctex-engine-pdftex.def 2021/12/12 v2.5.8 (pdf)LaTeX adapter (CTEX)
+ (d:/texlive/texlive/2022/texmf-dist/tex/latex/cjk/texinput/CJKutf8.sty
+Package: CJKutf8 2021/10/16 4.8.5
+
+(d:/texlive/texlive/2022/texmf-dist/tex/generic/iftex/ifpdf.sty
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+
+(d:/texlive/texlive/2022/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+(d:/texlive/texlive/2022/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+)
+(d:/texlive/texlive/2022/texmf-dist/tex/latex/cjk/texinput/CJK.sty
+Package: CJK 2021/10/16 4.8.5
+
+(d:/texlive/texlive/2022/texmf-dist/tex/latex/cjk/texinput/mule/MULEenc.sty
+Package: MULEenc 2021/10/16 4.8.5
+)
+(d:/texlive/texlive/2022/texmf-dist/tex/latex/cjk/texinput/CJK.enc
+File: CJK.enc 2021/10/16 4.8.5
+Now handling font encoding C00 ...
+... no UTF-8 mapping file for font encoding C00
+Now handling font encoding C05 ...
+... no UTF-8 mapping file for font encoding C05
+Now handling font encoding C09 ...
+... no UTF-8 mapping file for font encoding C09
+Now handling font encoding C10 ...
+... no UTF-8 mapping file for font encoding C10
+Now handling font encoding C20 ...
+... no UTF-8 mapping file for font encoding C20
+Now handling font encoding C19 ...
+... no UTF-8 mapping file for font encoding C19
+Now handling font encoding C40 ...
+... no UTF-8 mapping file for font encoding C40
+Now handling font encoding C42 ...
+... no UTF-8 mapping file for font encoding C42
+Now handling font encoding C43 ...
+... no UTF-8 mapping file for font encoding C43
+Now handling font encoding C50 ...
+... no UTF-8 mapping file for font encoding C50
+Now handling font encoding C52 ...
+... no UTF-8 mapping file for font encoding C52
+Now handling font encoding C49 ...
+... no UTF-8 mapping file for font encoding C49
+Now handling font encoding C60 ...
+... no UTF-8 mapping file for font encoding C60
+Now handling font encoding C61 ...
+... no UTF-8 mapping file for font encoding C61
+Now handling font encoding C63 ...
+... no UTF-8 mapping file for font encoding C63
+Now handling font encoding C64 ...
+... no UTF-8 mapping file for font encoding C64
+Now handling font encoding C65 ...
+... no UTF-8 mapping file for font encoding C65
+Now handling font encoding C70 ...
+... no UTF-8 mapping file for font encoding C70
+Now handling font encoding C31 ...
+... no UTF-8 mapping file for font encoding C31
+Now handling font encoding C32 ...
+... no UTF-8 mapping file for font encoding C32
+Now handling font encoding C33 ...
+... no UTF-8 mapping file for font encoding C33
+Now handling font encoding C34 ...
+... no UTF-8 mapping file for font encoding C34
+Now handling font encoding C35 ...
+... no UTF-8 mapping file for font encoding C35
+Now handling font encoding C36 ...
+... no UTF-8 mapping file for font encoding C36
+Now handling font encoding C37 ...
+... no UTF-8 mapping file for font encoding C37
+Now handling font encoding C80 ...
+... no UTF-8 mapping file for font encoding C80
+Now handling font encoding C81 ...
+... no UTF-8 mapping file for font encoding C81
+Now handling font encoding C01 ...
+... no UTF-8 mapping file for font encoding C01
+Now handling font encoding C11 ...
+... no UTF-8 mapping file for font encoding C11
+Now handling font encoding C21 ...
+... no UTF-8 mapping file for font encoding C21
+Now handling font encoding C41 ...
+... no UTF-8 mapping file for font encoding C41
+Now handling font encoding C62 ...
+... no UTF-8 mapping file for font encoding C62
+)
+\CJK@indent=\box52
+)
+(d:/texlive/texlive/2022/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+))
+(d:/texlive/texlive/2022/texmf-dist/tex/latex/cjkpunct/CJKpunct.sty
+Package: CJKpunct 2016/05/14 4.8.4
+\CJKpunct@cnta=\count198
+\CJKpunct@cntb=\count199
+\CJKpunct@cntc=\count266
+\CJKpunct@cntd=\count267
+\CJKpunct@cnte=\count268
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2026 (decimal 8230)
+
+(d:/texlive/texlive/2022/texmf-dist/tex/latex/cjkpunct/CJKpunct.spa))
+(d:/texlive/texlive/2022/texmf-dist/tex/latex/cjk/texinput/CJKspace.sty
+Package: CJKspace 2021/10/16 3.8.0
+)
+(d:/texlive/texlive/2022/texmf-dist/tex/latex/ctex/ctexspa.def
+File: ctexspa.def 2021/12/12 v2.5.8 Space info for CJKpunct (CTEX)
+)
+\ccwd=\dimen140
+\l__ctex_ccglue_skip=\skip49
+)
+\l__ctex_ziju_dim=\dimen141
+
+(d:/texlive/texlive/2022/texmf-dist/tex/latex/zhnumber/zhnumber.sty
+Package: zhnumber 2020/05/01 v2.8 Typesetting numbers with Chinese glyphs
+\l__zhnum_scale_int=\count269
+\l__zhnum_byte_min_int=\count270
+\l__zhnum_byte_max_int=\count271
+
+(d:/texlive/texlive/2022/texmf-dist/tex/latex/zhnumber/zhnumber-utf8.cfg
+File: zhnumber-utf8.cfg 2020/05/01 v2.8 Chinese numerals with UTF8 encoding
+))
+\l__ctex_heading_skip=\skip50
+
+(d:/texlive/texlive/2022/texmf-dist/tex/latex/ctex/scheme/ctex-scheme-chinese-b
+ook.def
+File: ctex-scheme-chinese-book.def 2021/12/12 v2.5.8 Chinese scheme for book (C
+TEX)
+
+(d:/texlive/texlive/2022/texmf-dist/tex/latex/ctex/config/ctex-name-utf8.cfg
+File: ctex-name-utf8.cfg 2021/12/12 v2.5.8 Caption with encoding UTF-8 (CTEX)
+))
+(d:/texlive/texlive/2022/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-windows
+.def
+File: ctex-fontset-windows.def 2021/12/12 v2.5.8 Windows fonts definition (CTEX
+)
+)) (d:/texlive/texlive/2022/texmf-dist/tex/latex/ctex/config/ctex.cfg
+File: ctex.cfg 2021/12/12 v2.5.8 Configuration file (CTEX)
+)
+(d:/texlive/texlive/2022/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(d:/texlive/texlive/2022/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(d:/texlive/texlive/2022/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(d:/texlive/texlive/2022/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+(d:/texlive/texlive/2022/texmf-dist/tex/latex/physics/physics.sty
+Package: physics 
+
+(d:/texlive/texlive/2022/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2021/10/15 v2.17l AMS math features
+\@mathmargin=\skip51
+
+For additional information on amsmath, use the `?' option.
+(d:/texlive/texlive/2022/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(d:/texlive/texlive/2022/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks18
+\ex@=\dimen142
+))
+(d:/texlive/texlive/2022/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen143
+)
+(d:/texlive/texlive/2022/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2021/08/26 v2.02 operator names
+)
+\inf@bad=\count272
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count273
+\leftroot@=\count274
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count275
+\DOTSCASE@=\count276
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box53
+\strutbox@=\box54
+\big@size=\dimen144
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count277
+\c@MaxMatrixCols=\count278
+\dotsspace@=\muskip16
+\c@parentequation=\count279
+\dspbrk@lvl=\count280
+\tag@help=\toks19
+\row@=\count281
+\column@=\count282
+\maxfields@=\count283
+\andhelp@=\toks20
+\eqnshift@=\dimen145
+\alignsep@=\dimen146
+\tagshift@=\dimen147
+\tagwidth@=\dimen148
+\totwidth@=\dimen149
+\lineht@=\dimen150
+\@envbody=\toks21
+\multlinegap=\skip52
+\multlinetaggap=\skip53
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2938.
+LaTeX Info: Redefining \] on input line 2939.
+))
+(d:/texlive/texlive/2022/texmf-dist/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+\subfigtopskip=\skip54
+\subfigcapskip=\skip55
+\subfigcaptopadj=\dimen151
+\subfigbottomskip=\skip56
+\subfigcapmargin=\dimen152
+\subfiglabelskip=\skip57
+\c@subfigure=\count284
+\c@lofdepth=\count285
+\c@subtable=\count286
+\c@lotdepth=\count287
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(d:/texlive/texlive/2022/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip58
+\subfig@bottom=\skip59
+)
+(d:/texlive/texlive/2022/texmf-dist/tex/latex/mhchem/mhchem.sty
+Package: mhchem 2021/12/31 v4.09 for typesetting chemical formulae
+
+(d:/texlive/texlive/2022/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count288
+\calc@Bcount=\count289
+\calc@Adimen=\dimen153
+\calc@Bdimen=\dimen154
+\calc@Askip=\skip60
+\calc@Bskip=\skip61
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count290
+\calc@Cskip=\skip62
+)
+(d:/texlive/texlive/2022/texmf-dist/tex/latex/chemgreek/chemgreek.sty
+Package: chemgreek 2020/01/16 v1.1a interface for upright Greek letters for use
+ in chemistry (CN)
+\l__chemgreek_tmpa_int=\count291
+\g__chemgreek_tmpa_int=\count292
+)
+\l__mhchem_ce_distanceFromLastComma_int=\count293
+\__mhchem_arrow_extPgfLength_skip=\skip63
+\mhchem@minispace@tmp=\skip64
+\mhchem@minibackspace@tmp=\skip65
+\mhchem@bondwidth=\skip66
+\mhchem@bondheight=\skip67
+\mhchem@smallbondwidth@tmpA=\skip68
+\mhchem@smallbondwidth@tmpB=\skip69
+\mhchem@smallbondwidth=\skip70
+\mhchem@bondtmp@minussidebearingleft=\skip71
+\mhchem@bondtmp@minussidebearingright=\skip72
+\l__mhchem_option_version_int=\count294
+\mhchem@option@minusmathsidebearingleft=\dimen155
+\mhchem@option@minusmathsidebearingright=\dimen156
+\mhchem@option@minustextsidebearingleft=\dimen157
+\mhchem@option@minustextsidebearingright=\dimen158
+
+
+Package mhchem Warning: You did not specify a 'version' option for the mhchem
+(mhchem)                package. Please write \usepackage[version=4]{mhchem}
+(mhchem)                in your preamble (or any lower number for
+(mhchem)                compatibility mode), because you might get slightly
+(mhchem)                different output with the same input in future versions
+.
+
+) (d:/texlive/texlive/2022/texmf-dist/tex/latex/realboxes/realboxes.sty
+Package: realboxes 2011/08/08 v0.2 Change box commands to read there content as
+ real boxes
+
+(d:/texlive/texlive/2022/texmf-dist/tex/latex/collectbox/collectbox.sty
+Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
+\collectedbox=\box55
+)
+(d:/texlive/texlive/2022/texmf-dist/tex/latex/adjustbox/adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+
+(d:/texlive/texlive/2022/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
+
+(d:/texlive/texlive/2022/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(d:/texlive/texlive/2022/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks23
+\XKV@tempa@toks=\toks24
+
+(d:/texlive/texlive/2022/texmf-dist/tex/generic/xkeyval/keyval.tex))
+\XKV@depth=\count295
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)))
+(d:/texlive/texlive/2022/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+\Gin@req@height=\dimen159
+\Gin@req@width=\dimen160
+))
+(d:/texlive/texlive/2022/texmf-dist/tex/latex/makecell/makecell.sty
+Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
+
+(d:/texlive/texlive/2022/texmf-dist/tex/latex/tools/array.sty
+Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
+\col@sep=\dimen161
+\ar@mcellbox=\box56
+\extrarowheight=\dimen162
+\NC@list=\toks25
+\extratabsurround=\skip73
+\backup@length=\skip74
+\ar@cellbox=\box57
+)
+\rotheadsize=\dimen163
+\c@nlinenum=\count296
+\TeXr@lab=\toks26
+)
+
+Package ctex Warning: Package `ctexcap' can not be loaded with `ctexbook'.
+
+(d:/texlive/texlive/2022/texmf-dist/tex/latex/tools/indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+(d:/texlive/texlive/2022/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen164
+\lightrulewidth=\dimen165
+\cmidrulewidth=\dimen166
+\belowrulesep=\dimen167
+\belowbottomsep=\dimen168
+\aboverulesep=\dimen169
+\abovetopsep=\dimen170
+\cmidrulesep=\dimen171
+\cmidrulekern=\dimen172
+\defaultaddspace=\dimen173
+\@cmidla=\count297
+\@cmidlb=\count298
+\@aboverulesep=\dimen174
+\@belowrulesep=\dimen175
+\@thisruleclass=\count299
+\@lastruleclass=\count300
+\@thisrulewidth=\dimen176
+)
+(d:/texlive/texlive/2022/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(d:/texlive/texlive/2022/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(d:/texlive/texlive/2022/texmf-dist/tex/latex/autobreak/autobreak.sty
+Package: autobreak 2017/02/23 v0.3 simple line breaking of long formulae
+\everybeforeautobreak=\toks27
+\everyafterautobreak=\toks28
+\@autobreak@alltoks=\toks29
+\@autobreak@linetoks=\toks30
+\@autobreak@lhswidth=\dimen177
+\@autobreak@rhswidth=\dimen178
+\@autobreak@maxlhswidth=\dimen179
+\@autobreak@realmaxlhswidth=\dimen180
+\@autobreak@maxrhswidth=\dimen181
+\c@@autobreak@eqnindex=\count301
+\c@@autobreak@subeqnindex=\count302
+
+(d:/texlive/texlive/2022/texmf-dist/tex/generic/catchfile/catchfile.sty
+Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
+
+(d:/texlive/texlive/2022/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(d:/texlive/texlive/2022/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(d:/texlive/texlive/2022/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)))
+(d:/texlive/texlive/2022/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(d:/texlive/texlive/2022/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count303
+\Gm@cntv=\count304
+\c@Gm@tempcnt=\count305
+\Gm@bindingoffset=\dimen182
+\Gm@wd@mp=\dimen183
+\Gm@odd@mp=\dimen184
+\Gm@even@mp=\dimen185
+\Gm@layoutwidth=\dimen186
+\Gm@layoutheight=\dimen187
+\Gm@layouthoffset=\dimen188
+\Gm@layoutvoffset=\dimen189
+\Gm@dimlist=\toks31
+)
+(d:/texlive/texlive/2022/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2022/01/07 v1.5 Sub-captions (AR)
+
+(d:/texlive/texlive/2022/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2022/03/01 v3.6b Customizing captions (AR)
+
+(d:/texlive/texlive/2022/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2022/03/17 v2.3b caption3 kernel (AR)
+\caption@tempdima=\dimen190
+\captionmargin=\dimen191
+\caption@leftmargin=\dimen192
+\caption@rightmargin=\dimen193
+\caption@width=\dimen194
+\caption@indent=\dimen195
+\caption@parindent=\dimen196
+\caption@hangindent=\dimen197
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count306
+\c@continuedfloat=\count307
+Package caption Info: subfigure package is loaded.
+)
+
+! Package subcaption Error: This package can't be used in cooperation
+(subcaption)                with the subfigure package.
+
+See the subcaption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.66 \subcaption@CheckCompatibility
+                                   
+If you do not understand this error, please take a closer look
+at the documentation of the `subcaption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+) (d:/texlive/texlive/2022/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and foote
+rs
+\f@nch@headwidth=\skip75
+\f@nch@O@elh=\skip76
+\f@nch@O@erh=\skip77
+\f@nch@O@olh=\skip78
+\f@nch@O@orh=\skip79
+\f@nch@O@elf=\skip80
+\f@nch@O@erf=\skip81
+\f@nch@O@olf=\skip82
+\f@nch@O@orf=\skip83
+)
+
+Package fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 19.
+
+
+Package fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
+less on input line 20.
+
+(d:/texlive/texlive/2022/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(d:/texlive/texlive/2022/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(d:/texlive/texlive/2022/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(d:/texlive/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.te
+x
+\pgfutil@everybye=\toks32
+\pgfutil@tempdima=\dimen198
+\pgfutil@tempdimb=\dimen199
+
+(d:/texlive/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-li
+sts.tex))
+(d:/texlive/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box58
+) (d:/texlive/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+(d:/texlive/texlive/2022/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
+))
+Package: pgf 2021/05/15 v3.1.9a (3.1.9a)
+
+(d:/texlive/texlive/2022/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(d:/texlive/texlive/2022/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(d:/texlive/texlive/2022/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
+(d:/texlive/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks33
+\pgfkeys@temptoks=\toks34
+
+(d:/texlive/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.c
+ode.tex
+\pgfkeys@tmptoks=\toks35
+))
+\pgf@x=\dimen256
+\pgf@y=\dimen257
+\pgf@xa=\dimen258
+\pgf@ya=\dimen259
+\pgf@xb=\dimen260
+\pgf@yb=\dimen261
+\pgf@xc=\dimen262
+\pgf@yc=\dimen263
+\pgf@xd=\dimen264
+\pgf@yd=\dimen265
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count308
+\c@pgf@countb=\count309
+\c@pgf@countc=\count310
+\c@pgf@countd=\count311
+\t@pgf@toka=\toks36
+\t@pgf@tokb=\toks37
+\t@pgf@tokc=\toks38
+\pgf@sys@id@count=\count312
+
+(d:/texlive/texlive/2022/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(d:/texlive/texlive/2022/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.d
+ef
+File: pgfsys-pdftex.def 2021/05/15 v3.1.9a (3.1.9a)
+
+(d:/texlive/texlive/2022/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-p
+df.def
+File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(d:/texlive/texlive/2022/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.
+code.tex
+File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfsyssoftpath@smallbuffer@items=\count313
+\pgfsyssoftpath@bigbuffer@items=\count314
+)
+(d:/texlive/texlive/2022/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.
+code.tex
+File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)) (d:/texlive/texlive/2022/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
+
+(d:/texlive/texlive/2022/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1352.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1356.
+Package xcolor Info: Model `RGB' extended on input line 1368.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1370.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
+)
+(d:/texlive/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
+(d:/texlive/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(d:/texlive/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(d:/texlive/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(d:/texlive/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen266
+\pgfmath@count=\count315
+\pgfmath@box=\box59
+\pgfmath@toks=\toks39
+\pgfmath@stack@operand=\toks40
+\pgfmath@stack@operation=\toks41
+)
+(d:/texlive/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.
+tex
+(d:/texlive/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic
+.code.tex)
+(d:/texlive/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigo
+nometric.code.tex)
+(d:/texlive/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.rando
+m.code.tex)
+(d:/texlive/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.compa
+rison.code.tex)
+(d:/texlive/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.
+code.tex)
+(d:/texlive/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round
+.code.tex)
+(d:/texlive/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.
+code.tex)
+(d:/texlive/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integ
+erarithmetics.code.tex)))
+(d:/texlive/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count316
+)) (d:/texlive/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
+(d:/texlive/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.co
+de.tex
+File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@picminx=\dimen267
+\pgf@picmaxx=\dimen268
+\pgf@picminy=\dimen269
+\pgf@picmaxy=\dimen270
+\pgf@pathminx=\dimen271
+\pgf@pathmaxx=\dimen272
+\pgf@pathminy=\dimen273
+\pgf@pathmaxy=\dimen274
+\pgf@xx=\dimen275
+\pgf@xy=\dimen276
+\pgf@yx=\dimen277
+\pgf@yy=\dimen278
+\pgf@zx=\dimen279
+\pgf@zy=\dimen280
+)
+(d:/texlive/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconst
+ruct.code.tex
+File: pgfcorepathconstruct.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@path@lastx=\dimen281
+\pgf@path@lasty=\dimen282
+)
+(d:/texlive/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage
+.code.tex
+File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@shorten@end@additional=\dimen283
+\pgf@shorten@start@additional=\dimen284
+)
+(d:/texlive/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.co
+de.tex
+File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfpic=\box60
+\pgf@hbox=\box61
+\pgf@layerbox@main=\box62
+\pgf@picture@serial@count=\count317
+)
+(d:/texlive/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicst
+ate.code.tex
+File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgflinewidth=\dimen285
+)
+(d:/texlive/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransform
+ations.code.tex
+File: pgfcoretransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@pt@x=\dimen286
+\pgf@pt@y=\dimen287
+\pgf@pt@temp=\dimen288
+)
+(d:/texlive/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.cod
+e.tex
+File: pgfcorequick.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(d:/texlive/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.c
+ode.tex
+File: pgfcoreobjects.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(d:/texlive/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathproce
+ssing.code.tex
+File: pgfcorepathprocessing.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(d:/texlive/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.co
+de.tex
+File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfarrowsep=\dimen289
+)
+(d:/texlive/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.cod
+e.tex
+File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@max=\dimen290
+\pgf@sys@shading@range@num=\count318
+\pgf@shadingcount=\count319
+)
+(d:/texlive/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.cod
+e.tex
+File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(d:/texlive/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.
+code.tex
+File: pgfcoreexternal.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfexternal@startupbox=\box63
+))
+(d:/texlive/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.co
+de.tex
+File: pgfcorelayers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(d:/texlive/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretranspare
+ncy.code.tex
+File: pgfcoretransparency.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(d:/texlive/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.
+code.tex
+File: pgfcorepatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(d:/texlive/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.
+tex
+File: pgfcorerdf.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(d:/texlive/texlive/2022/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.cod
+e.tex
+File: pgfmoduleshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfnodeparttextbox=\box64
+)
+(d:/texlive/texlive/2022/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.
+tex
+File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(d:/texlive/texlive/2022/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
+-0-65.sty
+Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@nodesepstart=\dimen291
+\pgf@nodesepend=\dimen292
+)
+(d:/texlive/texlive/2022/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
+-1-18.sty
+Package: pgfcomp-version-1-18 2021/05/15 v3.1.9a (3.1.9a)
+))
+(d:/texlive/texlive/2022/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(d:/texlive/texlive/2022/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(d:/texlive/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)
+) (d:/texlive/texlive/2022/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(d:/texlive/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(d:/texlive/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
+
+(d:/texlive/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen293
+\pgffor@skip=\dimen294
+\pgffor@stack=\toks42
+\pgffor@toks=\toks43
+))
+(d:/texlive/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.cod
+e.tex
+Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
+
+(d:/texlive/texlive/2022/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothan
+dlers.code.tex
+File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@plot@mark@count=\count320
+\pgfplotmarksize=\dimen295
+)
+\tikz@lastx=\dimen296
+\tikz@lasty=\dimen297
+\tikz@lastxsaved=\dimen298
+\tikz@lastysaved=\dimen299
+\tikz@lastmovetox=\dimen300
+\tikz@lastmovetoy=\dimen301
+\tikzleveldistance=\dimen302
+\tikzsiblingdistance=\dimen303
+\tikz@figbox=\box65
+\tikz@figbox@bg=\box66
+\tikz@tempbox=\box67
+\tikz@tempbox@bg=\box68
+\tikztreelevel=\count321
+\tikznumberofchildren=\count322
+\tikznumberofcurrentchild=\count323
+\tikz@fig@count=\count324
+
+(d:/texlive/texlive/2022/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.cod
+e.tex
+File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfmatrixcurrentrow=\count325
+\pgfmatrixcurrentcolumn=\count326
+\pgf@matrix@numberofcolumns=\count327
+)
+\tikz@expandcount=\count328
+
+(d:/texlive/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(d:/texlive/texlive/2022/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
+\ESO@tempdima=\dimen304
+\ESO@tempdimb=\dimen305
+)
+(d:/texlive/texlive/2022/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+\TX@col@width=\dimen306
+\TX@old@table=\dimen307
+\TX@old@col=\dimen308
+\TX@target=\dimen309
+\TX@delta=\dimen310
+\TX@cols=\count329
+\TX@ftn=\toks44
+)
+(d:/texlive/texlive/2022/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip84
+\multirow@cntb=\count330
+\multirow@dima=\skip85
+\bigstrutjot=\dimen311
+)
+(d:/texlive/texlive/2022/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2021/07/05 v2.14 Sectioning titles
+\ttl@box=\box69
+\beforetitleunit=\skip86
+\aftertitleunit=\skip87
+\ttl@plus=\dimen312
+\ttl@minus=\dimen313
+\ttl@toksa=\toks45
+\titlewidth=\dimen314
+\titlewidthlast=\dimen315
+\titlewidthfirst=\dimen316
+)
+(d:/texlive/texlive/2022/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.bdg
+File: UTF8.bdg 2021/10/16 4.8.5
+)
+(d:/texlive/texlive/2022/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc
+File: UTF8.enc 2021/10/16 4.8.5
+)
+(d:/texlive/texlive/2022/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr
+File: UTF8.chr 2021/10/16 4.8.5
+)
+(./main.aux (./TeX_files/chapter01.aux) (./TeX_files/chapter02.aux)
+(./TeX_files/chapter03.aux) (./TeX_files/chapter04.aux))
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+
+(d:/texlive/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count331
+\scratchdimen=\dimen317
+\scratchbox=\box70
+\nofMPsegments=\count332
+\nofMParguments=\count333
+\everyMPshowfont=\toks46
+\MPscratchCnt=\count334
+\MPscratchDim=\dimen318
+\MPnumerator=\count335
+\makeMPintoPDFobject=\count336
+\everyMPtoPDFconversion=\toks47
+) (d:/texlive/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+
+(d:/texlive/texlive/2022/texmf-dist/tex/latex/grfext/grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+
+(d:/texlive/texlive/2022/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)) (d:/texlive/texlive/2022/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+
+(d:/texlive/texlive/2022/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+))
+(d:/texlive/texlive/2022/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+
+(d:/texlive/texlive/2022/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+
+Package chemgreek Info: Activating mapping `default' on line 34.
+
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(71.13188pt, 469.47049pt, 56.9055pt)
+* v-part:(T,H,B)=(71.13188pt, 702.78308pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=469.47049pt
+* \textheight=702.78308pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-33.0119pt
+* \headheight=12.0pt
+* \headsep=19.8738pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=38.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Trying to load font information for C70+rm on input line 40
+.
+(d:/texlive/texlive/2022/texmf-dist/tex/latex/ctex/fd/c70rm.fd
+File: c70rm.fd 2021/12/12 v2.5.8 Chinese font definition (CTEX)
+)
+LaTeX Font Info:    Trying to load font information for U+msa on input line 40.
+
+
+(d:/texlive/texlive/2022/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 40.
+
+
+(d:/texlive/texlive/2022/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+(d:/texlive/texlive/2022/texmf-dist/tex/generic/ctex/zhmap/ctex-zhmap-windows.t
+ex
+File: ctex-zhmap-windows.tex 2021/12/12 v2.5.8 Windows font map loader for pdfT
+eX and DVIPDFMx (CTEX)
+{d:/texlive/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{UGBK.sfd
+}{Unicode.sfd}) [1
+
+
+
+] (./main.toc
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[1
+
+]
+Package CJKpunct Info: use punctuation spaces for family 'rm' with punctstyle (
+quanjiao) on input line 92.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[2]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[3]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[4])
+\tf@toc=\write4
+\openout4 = `main.toc'.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[5]
+\openout2 = `./TeX_files/chapter01.aux'.
+
+ (./TeX_files/chapter01.tex
+Á¨¨‰∏ÄÁ´†
+
+Overfull \hbox (9.53964pt too wide) in paragraph at lines 4--5
+\C70/rm/m/n/12/7f ^^V \C70/rm/m/n/12/7a  \C70/rm/m/n/12/62 Ä \C70/rm/m/n/12/67
+ /|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/66 Ù \C70/rm/m/n/12/59 ^^Z \C70/rm/m/n
+/12/76 Ñ \C70/rm/m/n/12/65 ˆ \C70/rm/m/n/12/95 Ù \C70/rm/m/n/12/54 å \C70/rm/m/
+n/12/7c æ \C70/rm/m/n/12/52 õ \C70/rm/m/n/12/57 ( \C70/rm/m/n/12/90 ^^P \C70/rm
+/m/n/12/6e ^^P \C70/rm/m/n/12/7e Ÿ \C70/rm/m/n/12/51 ‡ \C70/rm/m/n/12/4e * \C70
+/rm/m/n/12/80 ^^C \C70/rm/m/n/12/78 ^^T \C70/rm/m/n/12/76 Ñ \C70/rm/m/n/12/79 —
+ \C70/rm/m/n/12/76 Ó \C70/rm/m/n/12/4e „ \C70/rm/m/n/12/53 ˜ \C70/rm/m/n/12/8b 
+© \C70/rm/m/n/12/8d Ô|\C70/rm/m/n/12/ff ^^Z| \OT1/cmr/m/n/12 101,201,301,838/87
+7/960|\C70/rm/m/n/12/30 ^^B|
+ []
+
+
+Overfull \hbox (6.53397pt too wide) in paragraph at lines 6--7
+\C70/rm/m/n/12/8d [ \C70/rm/m/n/12/8f ÿ \C70/rm/m/n/12/6c ° \C70/rm/m/n/12/67 	
+ \C70/rm/m/n/12/8f Ÿ \C70/rm/m/n/12/68 7 \C70/rm/m/n/12/4e % \C70/rm/m/n/12/68 
+< \C70/rm/m/n/12/76 Ñ \C70/rm/m/n/12/7b ° \C70/rm/m/n/12/74 ^^F \C70/rm/m/n/12/
+63 ™ \C70/rm/m/n/12/65 Ω|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/67 	 \C70/rm/m/n
+/12/76 Ñ \C70/rm/m/n/12/5c ^^O \C70/rm/m/n/12/5b f \C70/rm/m/n/12/75 ^^_ \C70/r
+m/m/n/12/4e _ \C70/rm/m/n/12/80 ˝ \C70/rm/m/n/12/57 ( \C70/rm/m/n/12/51 ≥ \C70/
+rm/m/n/12/8d [ \C70/rm/m/n/12/4e - \C70/rm/m/n/12/53 ÷ \C70/rm/m/n/12/5f ó à \C
+70/rm/m/n/12/59 } \C70/rm/m/n/12/76 Ñ \C70/rm/m/n/12/62 ^^P \C70/rm/m/n/12/7e È
+|\C70/rm/m/n/12/30 ^^B| \OT1/cmr/m/n/12 2017\C70/rm/m/n/12/5e t\OT1/cmr/m/n/12 
+3\C70/rm/m/n/12/67 ^^H\OT1/cmr/m/n/12 25\C70/rm/m/n/12/65 Â|\C70/rm/m/n/12/ff ^
+^L|
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[1
+
+
+
+])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[2]
+\openout2 = `./TeX_files/chapter02.aux'.
+
+ (./TeX_files/chapter02.tex
+Á¨¨‰∫åÁ´†
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[3
+
+
+
+
+]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[4]
+Á¨¨‰∏âÁ´†
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[5
+
+]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[6]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[7]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[8]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[9]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[10]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[11]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[12]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[13]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[14]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[15]
+Overfull \hbox (8.40312pt too wide) detected at line 592
+[][][] \OT1/cmr/m/n/12 + [][] + [][] = \OML/cmm/m/it/12 ^^V[]![] [][]
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[16]
+Overfull \hbox (12.38069pt too wide) in paragraph at lines 661--664
+\C70/rm/m/n/12/67 – \C70/rm/m/n/12/9e ƒ \C70/rm/m/n/12/8d d \C70/rm/m/n/12/4e §
+ \C70/rm/m/n/12/89 “ \C70/rm/m/n/12/4e :$\OML/cmm/m/it/12 "$\C70/rm/m/n/12/76 Ñ
+ \C70/rm/m/n/12/88 L \C70/rm/m/n/12/66 ^^_ \C70/rm/m/n/12/57 ( \C70/rm/m/n/12/4
+e ^^@ * \C70/rm/m/n/12/51 l \C70/rm/m/n/12/8f l \C70/rm/m/n/12/54 h \C70/rm/m/n
+/12/67 ^^_$\OML/cmm/m/it/12 T[]$\C70/rm/m/n/12/4e -|\C70/rm/m/n/12/ff ^^L| \C70
+/rm/m/n/12/59 * \C70/rm/m/n/12/96 3 \C70/rm/m/n/12/6c 8 \C70/rm/m/n/12/4e ^^M \
+C70/rm/m/n/12/53 G|\C70/rm/m/n/12/30 ^^A| \C70/rm/m/n/12/84 = \C70/rm/m/n/12/76
+ Ñ \C70/rm/m/n/12/65 ˆ \C70/rm/m/n/12/95 Ù|\C70/rm/m/n/12/30 ^^B| \C70/rm/m/n/1
+2/57 ( \C70/rm/m/n/12/88 L \C70/rm/m/n/12/66 ^^_ \C70/rm/m/n/12/88 h \C70/rm/m/
+n/12/97 b \C70/rm/m/n/12/7e ¨ \C70/rm/m/n/12/5e ¶ \C70/rm/m/n/12/4e :$\OML/cmm/
+m/it/12 ^^^$\C70/rm/m/n/12/59 ^^D|\C70/rm/m/n/12/ff ^^L|
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[17]
+Overfull \hbox (5.37648pt too wide) in paragraph at lines 675--677
+\C70/rm/m/n/12/8b æ$\OT1/cmr/m/n/12 ^^A\OML/cmm/m/it/12 m$\C70/rm/m/n/12/4e : \
+C70/rm/m/n/12/88 ´ \C70/rm/m/n/12/54 8 \C70/rm/m/n/12/5f ^^U \C70/rm/m/n/12/76 
+Ñ \C70/rm/m/n/12/6d w \C70/rm/m/n/12/6c 4 \C70/rm/m/n/12/8d ( \C70/rm/m/n/12/91
+ œ|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/57 0 \C70/rm/m/n/12/74 ^^C \C70/rm/m/n
+/12/53 J \C70/rm/m/n/12/5f Ñ \C70/rm/m/n/12/4e :$\OML/cmm/m/it/12 R$|\C70/rm/m/
+n/12/ff ^^L| \C70/rm/m/n/12/88 ´ \C70/rm/m/n/12/54 8 \C70/rm/m/n/12/5f ^^U \C70
+/rm/m/n/12/76 Ñ \C70/rm/m/n/12/6d w \C70/rm/m/n/12/6c 4 \C70/rm/m/n/12/89 ∆ \C7
+0/rm/m/n/12/4f \ \C70/rm/m/n/12/8d ( \C70/rm/m/n/12/70 π \C70/rm/m/n/12/52 0 \C
+70/rm/m/n/12/67 ^^H \C70/rm/m/n/12/74 ^^C \C70/rm/m/n/12/8d ( \C70/rm/m/n/12/5f
+ √ \C70/rm/m/n/12/76 Ñ \C70/rm/m/n/12/8d › \C70/rm/m/n/12/79 ª \C70/rm/m/n/12/4
+e :$\OML/cmm/m/it/12 d[]$|\C70/rm/m/n/12/ff ^^L|
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[18]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[19]
+Á¨¨ÂõõÁ´†
+
+Underfull \hbox (badness 3009) in paragraph at lines 792--792
+[]|\C70/rm/m/n/12/57 Ç \C70/rm/m/n/12/76 Ù \C70/rm/m/n/12/4e é \C70/rm/m/n/12/9
+4 ˆ \C70/rm/m/n/12/90 S
+ []
+
+
+Underfull \hbox (badness 3009) in paragraph at lines 792--792
+[]|\C70/rm/m/n/12/94 ˆ \C70/rm/m/n/12/90 S \C70/rm/m/n/12/54 å \C70/rm/m/n/12/8
+d d \C70/rm/m/n/12/90 S
+ []
+
+
+Underfull \hbox (badness 1297) in paragraph at lines 792--792
+[]|\C70/rm/m/n/12/9a ÿ \C70/rm/m/n/12/5e ¶|\C70/rm/m/n/12/ff ^^Z| \C70/rm/m/n/1
+2/57 0 \C70/rm/m/n/12/5e s
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 792--792
+\C70/rm/m/n/12/57 ^^H \C70/rm/m/n/12/52 0 \C70/rm/m/n/12/59 ) \C70/rm/m/n/12/98
+ v|\C70/rm/m/n/12/ff ^^L|
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 792--792
+\C70/rm/m/n/12/4e 
+ \C70/rm/m/n/12/6b c \C70/rm/m/n/12/4e  \C70/rm/m/n/12/8d ^^_|\C70/rm/m/n/12/3
+0 ^^B|
+ []
+
+
+Underfull \hbox (badness 1297) in paragraph at lines 792--792
+\C70/rm/m/n/12/65 π \C70/rm/m/n/12/4f M \C70/rm/m/n/12/89 “|\C70/rm/m/n/12/ff ^
+^Z| \C70/rm/m/n/12/53 W
+ []
+
+
+Underfull \hbox (badness 1297) in paragraph at lines 792--792
+\C70/rm/m/n/12/70 π \C70/rm/m/n/12/8d w \C70/rm/m/n/12/7b ó|\C70/rm/m/n/12/ff ^
+^L| \C70/rm/m/n/12/4e ^^\
+ []
+
+
+Underfull \hbox (badness 1297) in paragraph at lines 792--792
+[]|\C70/rm/m/n/12/9e ƒ \C70/rm/m/n/12/7e œ \C70/rm/m/n/12/5e ¶|\C70/rm/m/n/12/f
+f ^^Z| \C70/rm/m/n/12/66 %
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 792--792
+\C70/rm/m/n/12/52 ^^F \C70/rm/m/n/12/70 π \C70/rm/m/n/12/8d w \C70/rm/m/n/12/7b
+ ó|\C70/rm/m/n/12/ff ^^L|
+ []
+
+
+Underfull \hbox (badness 3009) in paragraph at lines 792--792
+\C70/rm/m/n/12/6c ø \C70/rm/m/n/12/77 @ \C70/rm/m/n/12/59 ) \C70/rm/m/n/12/4f S
+ \C70/rm/m/n/12/8f –
+ []
+
+
+Underfull \hbox (badness 3009) in paragraph at lines 792--792
+\C70/rm/m/n/12/88 L \C70/rm/m/n/12/65 π \C70/rm/m/n/12/54 ^^Q \C70/rm/m/n/12/76
+ Ñ \C70/rm/m/n/12/53 Õ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 792--792
+\C70/rm/m/n/12/65 π \C70/rm/m/n/12/54 ^^Q \C70/rm/m/n/12/5e ¶ \C70/rm/m/n/12/91
+ œ|\C70/rm/m/n/12/30 ^^B|
+ []
+
+
+Underfull \hbox (badness 1297) in paragraph at lines 792--792
+\C70/rm/m/n/12/9e ƒ \C70/rm/m/n/12/7e ¨|\C70/rm/m/n/12/ff ^^Z| \C70/rm/m/n/12/9
+e ƒ \C70/rm/m/n/12/90 S
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 792--792
+\C70/rm/m/n/12/54 ^^Q \C70/rm/m/n/12/9e ƒ \C70/rm/m/n/12/67 Å \C70/rm/m/n/12/91
+ œ
+ []
+
+
+Underfull \hbox (badness 1297) in paragraph at lines 792--792
+[]|\C70/rm/m/n/12/8d d \C70/rm/m/n/12/7e œ|\C70/rm/m/n/12/ff ^^Z| \C70/rm/m/n/1
+2/66 % \C70/rm/m/n/12/52 ^^F
+ []
+
+
+Underfull \hbox (badness 3009) in paragraph at lines 792--792
+\C70/rm/m/n/12/70 π \C70/rm/m/n/12/8d w \C70/rm/m/n/12/90 ^^F \C70/rm/m/n/12/65
+ ˆ \C70/rm/m/n/12/94 à
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 792--792
+\C70/rm/m/n/12/65 π \C70/rm/m/n/12/54 ^^Q \C70/rm/m/n/12/5e ¶ \C70/rm/m/n/12/91
+ œ|\C70/rm/m/n/12/30 ^^B|
+ []
+
+
+Underfull \hbox (badness 1297) in paragraph at lines 792--792
+\C70/rm/m/n/12/8d d \C70/rm/m/n/12/7e ¨|\C70/rm/m/n/12/ff ^^Z| \C70/rm/m/n/12/5
+9 ) \C70/rm/m/n/12/8d d
+ []
+
+
+Underfull \hbox (badness 3009) in paragraph at lines 792--792
+\C70/rm/m/n/12/90 S \C70/rm/m/n/12/54 ^^Q \C70/rm/m/n/12/59 ) \C70/rm/m/n/12/67
+ Å \C70/rm/m/n/12/91 œ
+ []
+
+
+Underfull \hbox (badness 1297) in paragraph at lines 792--792
+\C70/rm/m/n/12/5e ¶|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/53 W \C70/rm/m/n/12/8
+d ^^_ \C70/rm/m/n/12/53 ^^W
+ []
+
+
+Underfull \hbox (badness 3009) in paragraph at lines 792--792
+[]|\C70/rm/m/n/12/8f « \C70/rm/m/n/12/89 ¬ \C70/rm/m/n/12/6d K \C70/rm/m/n/12/8
+0 ^^E \C70/rm/m/n/12/5b P
+ []
+
+
+Underfull \hbox (badness 3009) in paragraph at lines 792--792
+\C70/rm/m/n/12/53 H \C70/rm/m/n/12/57 ^^H \C70/rm/m/n/12/4e ^^N \C70/rm/m/n/12/
+59 ) \C70/rm/m/n/12/8d d
+ []
+
+
+Underfull \hbox (badness 3009) in paragraph at lines 792--792
+\C70/rm/m/n/12/90 S \C70/rm/m/n/12/4e § \C70/rm/m/n/12/70 π \C70/rm/m/n/12/97 b
+ \C70/rm/m/n/12/54 ^^Q
+ []
+
+
+Underfull \hbox (badness 1297) in paragraph at lines 792--792
+\C70/rm/m/n/12/53 W|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/6c ø \C70/rm/m/n/12/7
+7 @ \C70/rm/m/n/12/8d d
+ []
+
+
+Underfull \hbox (badness 3009) in paragraph at lines 792--792
+\C70/rm/m/n/12/90 S \C70/rm/m/n/12/57 ^^H \C70/rm/m/n/12/98 z \C70/rm/m/n/12/65
+ ˆ \C70/rm/m/n/12/94 à
+ []
+
+
+Underfull \hbox (badness 3009) in paragraph at lines 792--792
+\C70/rm/m/n/12/65 π \C70/rm/m/n/12/54 ^^Q \C70/rm/m/n/12/63 	 \C70/rm/m/n/12/5c
+ ^^O \C70/rm/m/n/12/65 ˆ
+ []
+
+
+Underfull \hbox (badness 1297) in paragraph at lines 792--792
+[]|\C70/rm/m/n/12/94 ˆ \C70/rm/m/n/12/7e œ|\C70/rm/m/n/12/ff ^^Z| \C70/rm/m/n/1
+2/4e Œ \C70/rm/m/n/12/94 ˆ
+ []
+
+
+Underfull \hbox (badness 3009) in paragraph at lines 792--792
+\C70/rm/m/n/12/90 S \C70/rm/m/n/12/54 å \C70/rm/m/n/12/8d d \C70/rm/m/n/12/90 S
+ \C70/rm/m/n/12/76 Ñ
+ []
+
+
+Underfull \hbox (badness 3009) in paragraph at lines 792--792
+\C70/rm/m/n/12/53 G \C70/rm/m/n/12/4e § \C70/rm/m/n/12/70 π \C70/rm/m/n/12/90 ^
+^F \C70/rm/m/n/12/65 ˆ
+ []
+
+
+Underfull \hbox (badness 1297) in paragraph at lines 792--792
+\C70/rm/m/n/12/94 à \C70/rm/m/n/12/5e ¶ \C70/rm/m/n/12/91 œ|\C70/rm/m/n/12/30 ^
+^B| \C70/rm/m/n/12/94 ˆ
+ []
+
+
+Underfull \hbox (badness 1297) in paragraph at lines 792--792
+\C70/rm/m/n/12/7e ¨|\C70/rm/m/n/12/ff ^^Z| \C70/rm/m/n/12/6c ø \C70/rm/m/n/12/7
+7 @ \C70/rm/m/n/12/94 ˆ
+ []
+
+
+Underfull \hbox (badness 3009) in paragraph at lines 792--792
+\C70/rm/m/n/12/7e œ \C70/rm/m/n/12/57 ^^H \C70/rm/m/n/12/53 W ^^W \C70/rm/m/n/1
+2/5e ¶
+ []
+
+
+Underfull \hbox (badness 1297) in paragraph at lines 792--792
+\C70/rm/m/n/12/91 œ|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/53 W \C70/rm/m/n/12/6
+b c \C70/rm/m/n/12/53 ^^W
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[20
+
+]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[21]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[22]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[23]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[24]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[25]
+Á¨¨‰∫îÁ´†
+
+Overfull \hbox (5.81593pt too wide) in paragraph at lines 965--965
+[]|\OT1/cmr/m/n/12 12\C70/rm/m/n/12/67 ^^H\OT1/cmr/m/n/12 26\C70/rm/m/n/12/65 Â
+| 
+ []
+
+
+Overfull \hbox (3.59851pt too wide) in paragraph at lines 965--965
+[]|$\OMS/cmsy/m/n/12 ^^@\OT1/cmr/m/n/12 14[]24[]$| 
+ []
+
+
+Overfull \hbox (3.40395pt too wide) in paragraph at lines 965--965
+[]|$\OT1/cmr/m/n/12 +16[]24[]$| 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[26
+
+]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[27]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[28]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[29]
+Underfull \hbox (badness 10000) in paragraph at lines 1151--1151
+[]|\C70/rm/m/n/12/67 ^^H \C70/rm/m/n/12/76 Ñ \C70/rm/m/n/12/59 ) \C70/rm/m/n/12
+/5e r|\C70/rm/m/n/12/ff ^^Z|
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[30]
+Underfull \hbox (badness 10000) in paragraph at lines 1227--1227
+[]|\C70/rm/m/n/12/65 Â \C70/rm/m/n/12/76 Ñ \C70/rm/m/n/12/59 ) \C70/rm/m/n/12/5
+e r|\C70/rm/m/n/12/ff ^^Z|
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[31]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[32]
+Overfull \hbox (8.38734pt too wide) in paragraph at lines 1251--1252
+[]\C70/rm/m/n/12/4e ^^\ \C70/rm/m/n/12/6c I \C70/rm/m/n/12/56 € \C70/rm/m/n/12/
+52 ^^F \C70/rm/m/n/12/53 Ü \C70/rm/m/n/12/75 1 \C70/rm/m/n/12/7f ^^V \C70/rm/m/
+n/12/47 #|\C70/rm/m/n/12/30 ^^A| \C70/rm/m/n/12/67 N \C70/rm/m/n/12/68 µ \C70/r
+m/m/n/12/7b I \C70/rm/m/n/12/4e ∫ \C70/rm/m/n/12/7f ^^V \C70/rm/m/n/12/62 ^^P|\
+C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/4e é ^^\ \C70/rm/m/n/12/6c I \C70/rm/m/n/1
+2/7a ‡ \C70/rm/m/n/12/5e ^^] \C70/rm/m/n/12/51 C \C70/rm/m/n/12/54 å \C70/rm/m/
+n/12/4e å \C70/rm/m/n/12/5e t\OT1/cmr/m/n/12 (85\C70/rm/m/n/12/5e t\OT1/cmr/m/n
+/12 )\C70/rm/m/n/12/98 Å \C70/rm/m/n/12/88 L|\C70/rm/m/n/12/30 ^^B| \C70/rm/m/n
+/12/7e † \C70/rm/m/n/12/6b c \C70/rm/m/n/12/4e Ü \C70/rm/m/n/12/59 * \C70/rm/m/
+n/12/52 ^^] \C70/rm/m/n/12/53 Ü\OT1/cmr/m/n/12 (\C70/rm/m/n/12/4e 	
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[33]
+Overfull \hbox (14.36722pt too wide) in paragraph at lines 1263--1264
+[]\C70/rm/m/n/12/4f   \C70/rm/m/n/12/7e ﬂ \C70/rm/m/n/12/76 Ñ \C70/rm/m/n/12/91
+ « \C70/rm/m/n/12/75 ( \C70/rm/m/n/12/5e s \C70/rm/m/n/12/67 ^^T \C70/rm/m/n/12
+/6c ’ \C70/rm/m/n/12/76 Ñ \C70/rm/m/n/12/89 ¬ \C70/rm/m/n/12/5f ı|\C70/rm/m/n/1
+2/ff ^^L| \C70/rm/m/n/12/57 ( \C70/rm/m/n/12/50 Ö \C70/rm/m/n/12/4e ¡ \C70/rm/m
+/n/12/57 G \C70/rm/m/n/12/62 
+ \C70/rm/m/n/12/5b ≈ \C70/rm/m/n/12/53 Ü\OT1/cmr/m/n/12 (619|\C70/rm/m/n/12/ff 
+^^L| \C70/rm/m/n/12/55 ^^P \C70/rm/m/n/12/9a ÿ \C70/rm/m/n/12/79 V \C70/rm/m/n/
+12/6b f \C70/rm/m/n/12/5f ∑ \C70/rm/m/n/12/4e å \C70/rm/m/n/12/5e t\OT1/cmr/m/n
+/12 )\C70/rm/m/n/12/54 å \C70/rm/m/n/12/67 N \C70/rm/m/n/12/6d Û \C70/rm/m/n/12
+/98 Œ \C70/rm/m/n/12/9e ü \C70/rm/m/n/12/5f ∑ \C70/rm/m/n/12/53 Ü\OT1/cmr/m/n/1
+2 (665|\C70/rm/m/n/12/ff ^^L|
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[34])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[35]
+\openout2 = `./TeX_files/chapter03.aux'.
+
+ (./TeX_files/chapter03.tex
+Á¨¨ÂÖ≠Á´†
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[36
+
+
+
+
+]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[37]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[38]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[39]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[40]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[41]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[42]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[43]
+Overfull \hbox (1.75417pt too wide) in paragraph at lines 377--378
+[] [] \C70/rm/bx/n/12/7b I \C70/rm/bx/n/12/50 < \C70/rm/bx/n/12/5b Ω \C70/rm/bx
+/n/12/5e ¶[] \C70/rm/m/n/12/53 s \C70/rm/m/n/12/4e ^^N \C70/rm/m/n/12/54 8 \C70
+/rm/m/n/12/65 6 |\C70/rm/m/n/12/ff ^^H|\C70/rm/m/n/12/62 ^^V \C70/rm/m/n/12/53 
+— \C70/rm/m/n/12/5c ^^D|\C70/rm/m/n/12/ff 	| \C70/rm/m/n/12/8c 1 \C70/rm/m/n/12
+/7e ø \C70/rm/m/n/12/8f n \C70/rm/m/n/12/5e ” \C70/rm/m/n/12/54 å \C70/rm/m/n/1
+2/8f ﬁ \C70/rm/m/n/12/7e Ì \C70/rm/m/n/12/8c 1 \C70/rm/m/n/12/4e K \C70/rm/m/n/
+12/95 Ù \C70/rm/m/n/12/62 @ \C70/rm/m/n/12/53 ^^E \C70/rm/m/n/12/56 Ù \C70/rm/m
+/n/12/76 Ñ \C70/rm/m/n/12/97 b \C70/rm/m/n/12/79 Ô \C70/rm/m/n/12/76 ¯ \C70/rm/
+m/n/12/5f S \C70/rm/m/n/12/76 Ñ \C70/rm/m/n/12/9a ÿ \C70/rm/m/n/12/5e ¶ \C70/rm
+/m/n/12/4e :\OT1/cmr/m/n/12 1\C70/rm/m/n/12/76 Ñ
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[44]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[45]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[46]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[47]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[48]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[49]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[50]
+Á¨¨‰∏ÉÁ´†
+
+Overfull \hbox (4.19981pt too wide) in paragraph at lines 644--645
+[] [] \C70/rm/bx/n/12/8f ê \C70/rm/bx/n/12/5c ^^D \C70/rm/bx/n/12/5f : \C70/rm/
+bx/n/12/5e ¶[] \C70/rm/m/n/12/57 ( \C70/rm/m/n/12/8f ê \C70/rm/m/n/12/5c ^^D \C
+70/rm/m/n/12/57 : \C70/rm/m/n/12/51 Ö \C70/rm/m/n/12/67 – \C70/rm/m/n/12/70 π$[
+]$\C70/rm/m/n/12/53 ÷ \C70/rm/m/n/12/4e ^^@ \C70/rm/m/n/12/97 b \C70/rm/m/n/12/
+51 C$\OT1/cmr/m/n/12 d[]$|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/97 b \C70/rm/m/
+n/12/51 C \C70/rm/m/n/12/76 Ñ \C70/rm/m/n/12/6c ’ \C70/rm/m/n/12/7e ø \C70/rm/m
+/n/12/4e :$[][]$|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/80 ^^C \C70/rm/m/n/12/86
+ Q \C70/rm/m/n/12/57 ($\OT1/cmr/m/n/12 d\OML/cmm/m/it/12 t$\C70/rm/m/n/12/65 ˆ 
+\C70/rm/m/n/12/95 Ù \C70/rm/m/n/12/51 Ö \C70/rm/m/n/12/6c ø \C70/rm/m/n/12/77 @
+$[]$\C70/rm/m/n/12/65 π
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[51
+
+]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[52]
+Overfull \hbox (7.38004pt too wide) in paragraph at lines 752--753
+\C70/rm/m/n/12/53 U \C70/rm/m/n/12/4f M \C70/rm/m/n/12/65 ˆ \C70/rm/m/n/12/95 Ù
+ \C70/rm/m/n/12/51 Ö \C70/rm/m/n/12/4e ^^@ * \C70/rm/m/n/12/53 ü \C70/rm/m/n/12
+/5b P \C70/rm/m/n/12/75 1 \C70/rm/m/n/12/9a ÿ \C70/rm/m/n/12/80 ˝ \C70/rm/m/n/1
+2/60 ^^A$\OML/cmm/m/it/12 n$\C70/rm/m/n/12/8d √ \C70/rm/m/n/12/8f ¡ \C70/rm/m/n
+/12/81 Û \C70/rm/m/n/12/4f N \C70/rm/m/n/12/80 ˝ \C70/rm/m/n/12/60 ^^A$\OML/cmm
+/m/it/12 m$|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/54 ^^L \C70/rm/m/n/12/65 ˆ \C
+70/rm/m/n/12/57 ( \C70/rm/m/n/12/7a À \C70/rm/m/n/12/4f S \C70/rm/m/n/12/89 “$\
+OT1/cmr/m/n/12 d
+$\C70/rm/m/n/12/51 Ö \C70/rm/m/n/12/53 — \C70/rm/m/n/12/5c ^^D \C70/rm/m/n/12/4
+e ^^@ * \C70/rm/m/n/12/80 ˝ \C70/rm/m/n/12/91 œ \C70/rm/m/n/12/4e :$\OML/cmm/m/
+it/12 h^^W[]$\C70/rm/m/n/12/76 Ñ
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[53]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[54]
+Overfull \hbox (23.3489pt too wide) in paragraph at lines 860--861
+\C70/rm/m/n/12/8f É \C70/rm/m/n/12/59 ^^Z \C70/rm/m/n/12/76 Ñ \C70/rm/m/n/12/75
+ 5 \C70/rm/m/n/12/52 ® õ \C70/rm/m/n/12/5b f \C70/rm/m/n/12/77 Â \C70/rm/m/n/12
+/8b ∆|\C70/rm/m/n/12/30 ^^B| \C70/rm/m/n/12/61 ^^_ \C70/rm/m/n/12/51 t \C70/rm/
+m/n/12/8d £ \C70/rm/m/n/12/76 Ñ \C70/rm/m/n/12/8b ˚ \C70/rm/m/n/12/80 ^^E \C70/
+rm/m/n/12/8b ˜ \C70/rm/m/n/12/96 ^^E \C70/rm/m/n/12/8b ˚ \C70/rm/m/n/12/80 ñ \C
+70/rm/m/n/12/51 t \C70/rm/m/n/12/53 N|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/67 
+N \C70/rm/m/n/12/5b ó \C70/rm/m/n/12/4f ^^_ \C70/rm/m/n/12/7f ^^V |\C70/rm/m/n/
+12/30 
+|\C70/rm/m/n/12/59 ) \C70/rm/m/n/12/4f S \C70/rm/m/n/12/72 i \C70/rm/m/n/12/74 
+^^F \C70/rm/m/n/12/5b f|\C70/rm/m/n/12/30 | \C70/rm/m/n/12/7b , \C70/rm/m/n/12
+/4e å \C70/rm/m/n/12/72 H\OT1/cmr/m/n/12 36\C70/rm/m/n/12/81 Û\OT1/cmr/m/n/12 5
+1\C70/rm/m/n/12/98 u|\C70/rm/m/n/12/30 ^^B|
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 860--861
+
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[55]
+Overfull \hbox (4.87291pt too wide) in paragraph at lines 921--923
+\C70/rm/m/n/12/7c s|\C70/rm/m/n/12/ff ^^Z| \C70/rm/m/n/12/7d + \C70/rm/m/n/12/5
+9 ^^V \C70/rm/m/n/12/7e ø|\C70/rm/m/n/12/30 ^^B| \C70/rm/m/n/12/6c ‚ \C70/rm/m/
+n/12/95 ^^? \C70/rm/m/n/12/57 (\OT1/cmr/m/n/12 0.001\C70/rm/m/n/12/7e ≥ \C70/rm
+/m/n/12/7c s \C70/rm/m/n/12/52 0\OT1/cmr/m/n/12 10\C70/rm/m/n/12/7e ≥ \C70/rm/m
+/n/12/7c s|\C70/rm/m/n/12/ff ^^Z| \OT1/cmr/m/n/12 X\C70/rm/m/n/12/5c ^^D \C70/r
+m/m/n/12/7e ø \C70/rm/m/n/12/6c ‚ \C70/rm/m/n/12/6b µ|\C70/rm/m/n/12/30 ^^B| \C
+70/rm/m/n/12/63 	 \C70/rm/m/n/12/71 g \C70/rm/m/n/12/6c ‚ \C70/rm/m/n/12/95 ^^?
+ \C70/rm/m/n/12/66 / \C70/rm/m/n/12/54 & \C70/rm/m/n/12/5c ^^O \C70/rm/m/n/12/4
+e é\OT1/cmr/m/n/12 0.1\C70/rm/m/n/12/7e ≥ \C70/rm/m/n/12/7c s \C70/rm/m/n/12/52
+ ^^F \C70/rm/m/n/12/4e : \C70/rm/m/n/12/78 l\OT1/cmr/m/n/12 X\C70/rm/m/n/12/5c 
+^^D
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[56]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[57]
+Overfull \hbox (43.52547pt too wide) in paragraph at lines 961--985
+ [] 
+ []
+
+
+Overfull \hbox (48.64432pt too wide) in paragraph at lines 988--1003
+ [] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[58]
+Overfull \hbox (1.18538pt too wide) in paragraph at lines 1039--1042
+\OML/cmm/m/it/12 n[]$\C70/rm/m/n/12/4e : \C70/rm/m/n/12/81 Í \C70/rm/m/n/12/75 
+1 5 \C70/rm/m/n/12/5b P \C70/rm/m/n/12/65 p \C70/rm/m/n/12/5b ∆ \C70/rm/m/n/12/
+5e ¶|\C70/rm/m/n/12/ff ^^L| $\OML/cmm/m/it/12 g[]$\C70/rm/m/n/12/54 å$\OML/cmm/
+m/it/12 g[]$\C70/rm/m/n/12/52 ^^F + \C70/rm/m/n/12/4e :$\OML/cmm/m/it/12 X[]$\C
+70/rm/m/n/12/54 å$\OML/cmm/m/it/12 X[]$\C70/rm/m/n/12/76 ¯ \C70/rm/m/n/12/5e î 
+\C70/rm/m/n/12/76 Ñ \C70/rm/m/n/12/72 ∂ \C70/rm/m/n/12/60 ^^A \C70/rm/m/n/12/7b
+ Ä \C70/rm/m/n/12/5e v ¶|\C70/rm/m/n/12/ff ^^L| $\OML/cmm/m/it/12 h$\C70/rm/m/n
+/12/4e : \C70/rm/m/n/12/66 n \C70/rm/m/n/12/67 ^^W \C70/rm/m/n/12/51 K \C70/rm/
+m/n/12/5e 8 \C70/rm/m/n/12/65 p|\C70/rm/m/n/12/ff ^^L| $\OML/cmm/m/it/12 E[]$\C
+70/rm/m/n/12/66 /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1062--1063
+
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[59]
+Overfull \hbox (5.47397pt too wide) in paragraph at lines 1086--1088
+\C70/rm/m/n/12/6e ) \C70/rm/m/n/12/5e ¶ \C70/rm/m/n/12/76 Ñ \C70/rm/m/n/12/5b ˘
+ \C70/rm/m/n/12/65 p \C70/rm/m/n/12/4e : \C70/rm/m/n/12/6a * \C70/rm/m/n/12/57 
+P \C70/rm/m/n/12/68 ^^G|\C70/rm/m/n/12/30 ^^B| \C70/rm/m/n/12/54 ^^D \C70/rm/m/
+n/12/7c { \C70/rm/m/n/12/60 R \C70/rm/m/n/12/66 ^^_ \C70/rm/m/n/12/57 ( \C70/rm
+/m/n/12/8d k \C70/rm/m/n/12/7f W \C70/rm/m/n/12/56 ˛ \C70/rm/m/n/12/4e 
+ \C70/rm/m/n/12/76 Ñ \C70/rm/m/n/12/52 ^^F \C70/rm/m/n/12/5e ^^C|\C70/rm/m/n/12
+/ff ^^L| \C70/rm/m/n/12/8b ˜ \C70/rm/m/n/12/53 ¬ \C70/rm/m/n/12/80 ^^C |\C70/rm
+/m/n/12/30 
+|\C70/rm/m/n/12/59 ) \C70/rm/m/n/12/4f S \C70/rm/m/n/12/72 i \C70/rm/m/n/12/74 
+^^F \C70/rm/m/n/12/5b f|\C70/rm/m/n/12/30 | \C70/rm/m/n/12/7b , \C70/rm/m/n/12
+/4e å \C70/rm/m/n/12/72 H \C70/rm/m/n/12/7b ,\OT1/cmr/m/n/12 158\C70/rm/m/n/12/
+98 u|\C70/rm/m/n/12/30 ^^B|
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1086--1088
+
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[60]
+<A_1.png, id=512, 333.49594pt x 130.98938pt>
+File: A_1.png Graphic file (type png)
+<use A_1.png>
+Package pdftex.def Info: A_1.png  used on input line 1159.
+(pdftex.def)             Requested size: 333.49512pt x 130.98904pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[61]
+<A_2.png, id=518, 307.1475pt x 46.67438pt>
+File: A_2.png Graphic file (type png)
+<use A_2.png>
+Package pdftex.def Info: A_2.png  used on input line 1161.
+(pdftex.def)             Requested size: 307.14674pt x 46.67424pt.
+<A_3.png, id=519, 308.65312pt x 46.67438pt>
+File: A_3.png Graphic file (type png)
+<use A_3.png>
+Package pdftex.def Info: A_3.png  used on input line 1163.
+(pdftex.def)             Requested size: 308.65236pt x 46.67424pt.
+<A_4.png, id=520, 164.11313pt x 16.56187pt>
+File: A_4.png Graphic file (type png)
+<use A_4.png>
+Package pdftex.def Info: A_4.png  used on input line 1165.
+(pdftex.def)             Requested size: 164.11272pt x 16.56183pt.
+<A_5.png, id=521, 141.52875pt x 87.32625pt>
+File: A_5.png Graphic file (type png)
+<use A_5.png>
+Package pdftex.def Info: A_5.png  used on input line 1167.
+(pdftex.def)             Requested size: 141.5284pt x 87.32603pt.
+<A_6.png, id=522, 194.22563pt x 50.43843pt>
+File: A_6.png Graphic file (type png)
+<use A_6.png>
+Package pdftex.def Info: A_6.png  used on input line 1169.
+(pdftex.def)             Requested size: 194.22514pt x 50.4383pt.
+<A_7.png, id=523, 176.91093pt x 50.43843pt>
+File: A_7.png Graphic file (type png)
+<use A_7.png>
+Package pdftex.def Info: A_7.png  used on input line 1171.
+(pdftex.def)             Requested size: 176.91049pt x 50.4383pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[62 <./A_1.png> <./A_2.png> <./A_3.png> <./A_4.png> <./A_5.png> <./A_6.png> <./
+A_7.png>]
+Overfull \hbox (27.03354pt too wide) in paragraph at lines 1185--1186
+[]\C70/rm/m/n/12/59 ) \C70/rm/m/n/12/74 4 \C70/rm/m/n/12/5e ß\OT1/cmr/m/n/12 RR
+\C70/rm/m/n/12/57 ã \C70/rm/m/n/12/53 ÿ \C70/rm/m/n/12/66 ^^_ \C70/rm/m/n/12/76
+ Ñ \C70/rm/m/n/12/51 I \C70/rm/m/n/12/8c 1 \C70/rm/m/n/12/57 ã \C70/rm/m/n/12/5
+9 ' ^^Z \C70/rm/m/n/12/4e :\OT1/cmr/m/n/12 A\C70/rm/m/n/12/57 ã|\C70/rm/m/n/12/
+ff ^^L| \C70/rm/m/n/12/53 Í \C70/rm/m/n/12/67 	 \C70/rm/m/n/12/4e ^^@ \C70/rm/m
+/n/12/5c ^^O \C70/rm/m/n/12/90 Ë \C70/rm/m/n/12/52 ^^F \C70/rm/m/n/12/4e :\OT1/
+cmr/m/n/12 F\C70/rm/m/n/12/57 ã|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/51 v \C70
+/rm/m/n/12/7e › \C70/rm/m/n/12/5b ˘ \C70/rm/m/n/12/66 ^^_ \C70/rm/m/n/12/7b I \
+C70/rm/m/n/12/59 ' \C70/rm/m/n/12/81 Ù \C70/rm/m/n/12/76 ¯ \C70/rm/m/n/12/54 ^^
+L \C70/rm/m/n/12/4e :\OT1/cmr/m/n/12 0.6\C70/rm/m/n/12/7b I|\C70/rm/m/n/12/30 ^
+^B|
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1185--1186
+
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[63]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[64]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[65]
+Overfull \hbox (6.52122pt too wide) in paragraph at lines 1297--1298
+[]\C70/rm/m/n/12/75 1 \C70/rm/m/n/12/90 ^^_ \C70/rm/m/n/12/5e ¶$\OML/cmm/m/it/1
+2 v$\C70/rm/m/n/12/76 Ñ \C70/rm/m/n/12/75 5 \C70/rm/m/n/12/5b P \C70/rm/m/n/12/
+5f ^^U \C70/rm/m/n/12/8d w \C70/rm/m/n/12/75 1 \C70/rm/m/n/12/80 ˝ \C70/rm/m/n/
+12/7e ß$\OML/cmm/m/it/12 j$\C70/rm/m/n/12/52 0 \C70/rm/m/n/12/80 ˝ \C70/rm/m/n/
+12/7e ß$\OML/cmm/m/it/12 i$\C70/rm/m/n/12/76 Ñ \C70/rm/m/n/12/78 ∞ \C70/rm/m/n/
+12/64 û \C70/rm/m/n/12/53 ª \C70/rm/m/n/12/6f ¿ \C70/rm/m/n/12/53 — \C70/rm/m/n
+/12/76 Ñ \C70/rm/m/n/12/90 ^^_ \C70/rm/m/n/12/73 á \C70/rm/m/n/12/5e î \C70/rm/
+m/n/12/8b Â \C70/rm/m/n/12/75 1 5 \C70/rm/m/n/12/5b P \C70/rm/m/n/12/6d A|\C70/
+rm/m/n/12/30 ^^A| \C70/rm/m/n/12/4f M \C70/rm/m/n/12/4e é \C70/rm/m/n/12/6f ¿ \
+C70/rm/m/n/12/53 — \C70/rm/m/n/12/60 ^^A$\OML/cmm/m/it/12 j$\C70/rm/m/n/12/76 Ñ
+
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[66]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[67]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[68]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[69]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[70]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[71]
+Overfull \hbox (1.6487pt too wide) in paragraph at lines 1555--1556
+[] [] \C70/rm/bx/n/12/51 I \C70/rm/bx/n/12/81 Ù \C70/rm/bx/n/12/75 5 \C70/rm/bx
+/n/12/79 ª \C70/rm/bx/n/12/66 ^^_ \C70/rm/bx/n/12/4e ë[] \C70/rm/m/n/12/6c " \C
+70/rm/m/n/12/7e ƒ \C70/rm/m/n/12/62 ^^P \C70/rm/m/n/12/76 Ñ \C70/rm/m/n/12/57 G
+ \C70/rm/m/n/12/53 ^^@ \C70/rm/m/n/12/66 ^^_ \C70/rm/m/n/12/4e ë - \C70/rm/m/n/
+12/67 – \C70/rm/m/n/12/59 ^^D \C70/rm/m/n/12/5f b \C70/rm/m/n/12/62 ^^P \C70/rm
+/m/n/12/4e Ü ^^@ \C70/rm/m/n/12/98 ó \C70/rm/m/n/12/59 ' \C70/rm/m/n/12/8d ( \C
+70/rm/m/n/12/91 œ \C70/rm/m/n/12/60 R \C70/rm/m/n/12/66 ^^_|\C70/rm/m/n/12/ff ^
+^L| \C70/rm/m/n/12/7e œ \C70/rm/m/n/12/8f « É \C70/rm/m/n/12/77 Ì \C70/rm/m/n/1
+2/76 Ñ \C70/rm/m/n/12/65 ˆ \C70/rm/m/n/12/95 Ù\OT1/cmr/m/n/12 (\C70/rm/m/n/12/5
+3 A
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[72]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[73]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[74]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[75]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[76]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[77]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[78]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[79]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[80]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[81]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[82]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[83]
+Overfull \hbox (1.06221pt too wide) in paragraph at lines 2092--2093
+[]\C70/rm/m/n/12/51 I \C70/rm/m/n/12/88 ¬ \C70/rm/m/n/12/53 ÿ Õ \C70/rm/m/n/12/
+5e î|\C70/rm/m/n/12/ff ^^Z| \C70/rm/m/n/12/78 E \C70/rm/m/n/12/5f ^^@ \C70/rm/m
+/n/12/59 À|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/6b œ \C70/rm/m/n/12/54 8 \C70/
+rm/m/n/12/65 6 \C70/rm/m/n/12/4e ^^@ * \C70/rm/m/n/12/51 I \C70/rm/m/n/12/5b P|
+\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/75 ^^_ \C70/rm/m/n/12/62 ^^P \C70/rm/m/n/
+12/76 Ñ \C70/rm/m/n/12/4e ß \C70/rm/m/n/12/72 i \C70/rm/m/n/12/75 e \C70/rm/m/n
+/12/67 	 \C70/rm/m/n/12/4e ^^M \C70/rm/m/n/12/54 ^^L|\C70/rm/m/n/12/ff ^^Z| \C7
+0/rm/m/n/12/78 E\OT1/cmr/m/n/12 -28\C70/rm/m/n/12/75 ^^_ \C70/rm/m/n/12/62 ^^P 
+\C70/rm/m/n/12/4e ^^@ * \C70/rm/m/n/12/95 A\OT1/cmr/m/n/12 -24\C70/rm/m/n/12/54
+ å
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[84]
+Overfull \hbox (3.29222pt too wide) in paragraph at lines 2126--2127
+\C70/rm/m/n/12/51 C \C70/rm/m/n/12/7d   \C70/rm/m/n/12/76 Ñ \C70/rm/m/n/12/6b ‘
+ \C70/rm/m/n/12/4f ã \C70/rm/m/n/12/5d Ó \C70/rm/m/n/12/52 + \C70/rm/m/n/12/8f 
+É \C70/rm/m/n/12/59 '|\C70/rm/m/n/12/30 ^^B| \C70/rm/m/n/12/50 œ \C70/rm/m/n/12
+/59 * \C70/rm/m/n/12/96 3 \C70/rm/m/n/12/4e ^^@ \C70/rm/m/n/12/68 7 \C70/rm/m/n
+/12/5b Ã \C70/rm/m/n/12/54 + \C70/rm/m/n/12/91 Õ \C70/rm/m/n/12/51 C \C70/rm/m/
+n/12/7d   \C70/rm/m/n/12/76 Ñ \C70/rm/m/n/12/60 R \C70/rm/m/n/12/66 ^^_ \C70/rm
+/m/n/12/79  \C70/rm/m/n/12/4f \ \C70/rm/m/n/12/66 ^^_ \C70/rm/m/n/12/65 œ\OT1/
+cmr/m/n/12 I|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/8d + \C70/rm/m/n/12/91 Õ \C7
+0/rm/m/n/12/51 C \C70/rm/m/n/12/7d   \C70/rm/m/n/12/76 Ñ \C70/rm/m/n/12/66 ^^_ 
+\C70/rm/m/n/12/79  \C70/rm/m/n/12/4f \ \C70/rm/m/n/12/66 ^^_ \C70/rm/m/n/12/65
+ œ\OT1/cmr/m/n/12 II|\C70/rm/m/n/12/30 ^^B|
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[85]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[86]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[87]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[88]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[89]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[90]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[91]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[92]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[93]
+Overfull \hbox (23.77502pt too wide) in paragraph at lines 2397--2398
+[] []\C70/rm/bx/n/12/4e - \C70/rm/bx/n/12/5b P \C70/rm/bx/n/12/66 ^^_ \C70/rm/b
+x/n/12/76 Ñ \C70/rm/bx/n/12/6a ! \C70/rm/bx/n/12/57 ã \C70/rm/bx/n/12/54 å \C70
+/rm/bx/n/12/72 i \C70/rm/bx/n/12/60 ^^A \C70/rm/bx/n/12/65 π \C70/rm/bx/n/12/7a
+ [] \C70/rm/m/n/12/7c í \C70/rm/m/n/12/5b P \C70/rm/m/n/12/95 Ù \C70/rm/m/n/12
+/76 Ñ \C70/rm/m/n/12/5e s \C70/rm/m/n/12/88 a \C70/rm/m/n/12/95 Ù \C70/rm/m/n/1
+2/8d › \C70/rm/m/n/12/4f M \C70/rm/m/n/12/4e é$\U/msb/m/n/12 ~\OML/cmm/m/it/12 
+=m[]c$\C70/rm/m/n/12/54 å$\U/msb/m/n/12 ~\OML/cmm/m/it/12 =m[]c$\C70/rm/m/n/12/
+4e K \C70/rm/m/n/12/95 Ù|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/4e ^^@ \C70/rm/m
+/n/12/82 , \C70/rm/m/n/12/91 « \C70/rm/m/n/12/75 ($\OML/cmm/m/it/12 r[] \OT1/cm
+r/m/n/12 = \U/msb/m/n/12 ~\OML/cmm/m/it/12 =\OT1/cmr/m/n/12 2\OML/cmm/m/it/12 m
+[]c$|\C70/rm/m/n/12/ff ^^L|
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[94]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[95]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[96]
+Underfull \hbox (badness 10000) in paragraph at lines 2543--2544
+
+ []
+
+
+Overfull \hbox (6.2181pt too wide) in paragraph at lines 2557--2558
+[] []\C70/rm/bx/n/12/6d ^^[ \C70/rm/bx/n/12/5e ^^L \C70/rm/bx/n/12/74 „ \C70/rm
+/bx/n/12/54 å \C70/rm/bx/n/12/5b ∆ \C70/rm/bx/n/12/8f — \C70/rm/bx/n/12/53 Ã \C
+70/rm/bx/n/12/66 ^^_ \C70/rm/bx/n/12/52 ^^F \C70/rm/bx/n/12/7c {[] \C70/rm/m/n/
+12/5b ∆ \C70/rm/m/n/12/8f — \C70/rm/m/n/12/53 Ã \C70/rm/m/n/12/66 ^^_ \C70/rm/m
+/n/12/52 ^^F \C70/rm/m/n/12/4e : 	 \C70/rm/m/n/12/7c {|\C70/rm/m/n/12/ff ^^Z| \
+C70/rm/m/n/12/4e $ \C70/rm/m/n/12/98 ó \C70/rm/m/n/12/5b P \C70/rm/m/n/12/66 ^^
+_ \C70/rm/m/n/12/90 ˝ \C70/rm/m/n/12/6c ° \C70/rm/m/n/12/67 	 \C70/rm/m/n/12/51
+ E \C70/rm/m/n/12/6e · \C70/rm/m/n/12/51 v \C70/rm/m/n/12/67 Å \C70/rm/m/n/12/9
+6 P \C70/rm/m/n/12/7b I \C70/rm/m/n/12/4f M \C70/rm/m/n/12/97 b\OT1/cmr/m/n/12 
+(\C70/rm/m/n/12/6d ^^[ \C70/rm/m/n/12/5e ^^L \C70/rm/m/n/12/97 b\OT1/cmr/m/n/12
+ )\C70/rm/m/n/12/76 Ñ
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[97]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[98]
+Underfull \hbox (badness 10000) in paragraph at lines 2594--2595
+
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[99]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[100]
+Underfull \hbox (badness 10000) in paragraph at lines 2690--2692
+
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[101]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[102]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[103]
+Underfull \hbox (badness 10000) in paragraph at lines 2772--2773
+
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[104]
+Á¨¨ÂÖ´Á´†
+
+Overfull \hbox (15.57014pt too wide) in paragraph at lines 2794--2795
+\C70/rm/m/n/12/5e ¶ \C70/rm/m/n/12/66 ^^_|\C70/rm/m/n/12/30 ^^A| \C70/rm/m/n/12
+/94 ˆ \C70/rm/m/n/12/6c ≥ \C70/rm/m/n/12/66 ^^_ \C70/rm/m/n/12/56 ‚ \C70/rm/m/n
+/12/54 å \C70/rm/m/n/12/94 ˆ \C70/rm/m/n/12/6c ≥ \C70/rm/m/n/12/66 ^^_ \C70/rm/
+m/n/12/4e ë \C70/rm/m/n/12/7e ƒ \C70/rm/m/n/12/62 ^^P \C70/rm/m/n/12/6f ) \C70/
+rm/m/n/12/6d ° \C70/rm/m/n/12/7e ” \C70/rm/m/n/12/67 Ñ \C70/rm/m/n/12/53 ‡ \C70
+/rm/m/n/12/52 † \C70/rm/m/n/12/57 ( \C70/rm/m/n/12/94 ˆ \C70/rm/m/n/12/76 ÿ \C7
+0/rm/m/n/12/4e 
+|\C70/rm/m/n/12/30 ^^B| \C70/rm/m/n/12/94 ˆ \C70/rm/m/n/12/6c ≥ \C70/rm/m/n/12/
+4e - \C70/rm/m/n/12/5f √ \C70/rm/m/n/12/76 Ñ \C70/rm/m/n/12/68 8 \C70/rm/m/n/12
+/74 ^^C|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/95 ^^? \C70/rm/m/n/12/8f t \C70/r
+m/m/n/12/7e ¶ \C70/rm/m/n/12/4e :\OT1/cmr/m/n/12 4$\OMS/cmsy/m/n/12 ^^X$\OT1/cm
+r/m/n/12 5kpc|\C70/rm/m/n/12/ff ^^L|
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[105
+
+]
+Overfull \hbox (31.16916pt too wide) in paragraph at lines 2820--2832
+ [] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[106]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[107]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[108]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[109]
+Overfull \hbox (14.2243pt too wide) in paragraph at lines 2998--2999
+[] []\C70/rm/bx/n/12/4e ^^M \C70/rm/bx/n/12/89 ƒ \C70/rm/bx/n/12/52 ^^Y \C70/rm
+/bx/n/12/66 ^^_ \C70/rm/bx/n/12/7c ˚[] \C70/rm/m/n/12/66 ^^_ \C70/rm/m/n/12/7c 
+˚ \C70/rm/m/n/12/76 Ñ \C70/rm/m/n/12/51 ‡ \C70/rm/m/n/12/4f U \C70/rm/m/n/12/5f
+ b \C70/rm/m/n/12/72 ∂ \C70/rm/m/n/12/4e ^^M \C70/rm/m/n/12/89 ƒ \C70/rm/m/n/12
+/52 ^^Y|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/75 (\OT1/cmr/m/n/12 Irr\C70/rm/m/
+n/12/88 h \C70/rm/m/n/12/79 :|\C70/rm/m/n/12/30 ^^B| \OT1/cmr/m/n/12 I\C70/rm/m
+/n/12/57 ã \C70/rm/m/n/12/4e ^^M \C70/rm/m/n/12/89 ƒ \C70/rm/m/n/12/52 ^^Y \C70
+/rm/m/n/12/66 ^^_ \C70/rm/m/n/12/7c ˚ \C70/rm/m/n/12/98 ú \C70/rm/m/n/12/82 r \
+C70/rm/m/n/12/50 O \C70/rm/m/n/12/84 ›|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/82
+ r \C70/rm/m/n/12/63 ^^G \C70/rm/m/n/12/65 p \C70/rm/m/n/12/7e ¶ \C70/rm/m/n/12
+/4e :\OT1/cmr/m/n/12 0.35|\C70/rm/m/n/12/ff ^^[|
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[110]
+Overfull \hbox (7.20416pt too wide) in paragraph at lines 3022--3023
+[] [] \OT1/cmr/bx/n/12 T-F\C70/rm/bx/n/12/65 π \C70/rm/bx/n/12/6c ’[] \C70/rm/m
+/n/12/75 1 \C70/rm/m/n/12/57 ^^_ \C70/rm/m/n/12/52 ) \C70/rm/m/n/12/54 å \C70/r
+m/m/n/12/8d 9 \C70/rm/m/n/12/4e ¿ \C70/rm/m/n/12/5c ^^T \C70/rm/m/n/12/53 — \C7
+0/rm/m/n/12/73 ∞ \C70/rm/m/n/12/76 Ñ \C70/rm/m/n/12/6d K \C70/rm/m/n/12/5b ö \C
+70/rm/m/n/12/66 ^^_ \C70/rm/m/n/12/7c ˚ \C70/rm/m/n/12/8d › \C70/rm/m/n/12/79 ª
+ \C70/rm/m/n/12/76 Ñ \C70/rm/m/n/12/65 π \C70/rm/m/n/12/6c ’|\C70/rm/m/n/12/30 
+^^B| \C70/rm/m/n/12/65 À \C70/rm/m/n/12/6d ° \C70/rm/m/n/12/66 ^^_ \C70/rm/m/n/
+12/7c ˚ \C70/rm/m/n/12/76 Ñ \C70/rm/m/n/12/7e › \C70/rm/m/n/12/5b ˘ \C70/rm/m/n
+/12/66 ^^_ \C70/rm/m/n/12/7b I \C70/rm/m/n/12/54 å \C70/rm/m/n/12/51 v\OT1/cmr/
+m/n/12 21\C70/rm/m/n/12/53 ò
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[111]
+Overfull \hbox (18.73993pt too wide) in paragraph at lines 3067--3068
+[]\C70/rm/m/n/12/66 ^^_ \C70/rm/m/n/12/7c ˚ \C70/rm/m/n/12/76 Ñ \C70/rm/m/n/12/
+62 ï \C70/rm/m/n/12/5f q \C70/rm/m/n/12/51 I \C70/rm/m/n/12/5e ¶$\OML/cmm/m/it/
+12 I\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 r\OT1/cmr/m/n/12 )$\C70/rm/m/n/12/5b ö \C
+70/rm/m/n/12/4e I : \C70/rm/m/n/12/66 ^^_ \C70/rm/m/n/12/7c ˚ \C70/rm/m/n/12/6b
+ œ \C70/rm/m/n/12/53 U \C70/rm/m/n/12/4f M \C70/rm/m/n/12/97 b \C70/rm/m/n/12/7
+9 Ô \C70/rm/m/n/12/53 — \C70/rm/m/n/12/5c ^^D \C70/rm/m/n/12/76 Ñ \C70/rm/m/n/1
+2/89 ∆ \C70/rm/m/n/12/51 I \C70/rm/m/n/12/5f : \C70/rm/m/n/12/5e ¶|\C70/rm/m/n/
+12/30 ^^B| \C70/rm/m/n/12/89 ¬ \C70/rm/m/n/12/6d K \C70/rm/m/n/12/88 h \C70/rm/
+m/n/12/66 ^^N|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/5b ˘ \C70/rm/m/n/12/4e é\OT
+1/cmr/m/n/12 E|\C70/rm/m/n/12/ff ^^L| \OT1/cmr/m/n/12 S0\C70/rm/m/n/12/54 å\OT1
+/cmr/m/n/12 S\C70/rm/m/n/12/57 ã
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[112]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[113]
+Overfull \hbox (3.27435pt too wide) in paragraph at lines 3136--3137
+[]\C70/rm/m/n/12/7c { \C70/rm/m/n/12/66 ^^_ \C70/rm/m/n/12/4f S \C70/rm/m/n/12/
+75 1 \C70/rm/m/n/12/51 I \C70/rm/m/n/12/5e ¶ \C70/rm/m/n/12/67 ^^@ \C70/rm/m/n/
+12/59 ' \C70/rm/m/n/12/76 Ñ \C70/rm/m/n/12/6d ; \C70/rm/m/n/12/52 ® \C70/rm/m/n
+/12/66 ^^_ \C70/rm/m/n/12/7c ˚ \C70/rm/m/n/12/68 8 \C70/rm/m/n/12/7e ƒ \C70/rm/
+m/n/12/62 ^^P|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/8f Ÿ \C70/rm/m/n/12/7c { \C
+70/rm/m/n/12/6e ê \C70/rm/m/n/12/76 Ñ \C70/rm/m/n/12/5c ^^Q \C70/rm/m/n/12/90 Ë
+ \C70/rm/m/n/12/52 ^^F \C70/rm/m/n/12/66 / \C70/rm/m/n/12/5f : \C70/rm/m/n/12/5
+c ^^D \C70/rm/m/n/12/75 5 \C70/rm/m/n/12/6e ê|\C70/rm/m/n/12/30 ^^B| \C70/rm/m/
+n/12/51 v \C70/rm/m/n/12/7e › \C70/rm/m/n/12/5b ˘ \C70/rm/m/n/12/66 ^^_ \C70/rm
+/m/n/12/7b I$\OML/cmm/m/it/12 M[] <
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[114]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[115]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[116]
+Overfull \hbox (1.14125pt too wide) in paragraph at lines 3254--3255
+\C70/rm/m/n/12/56 ‚|\C70/rm/m/n/12/30 ^^B| \C70/rm/m/n/12/66 ó \C70/rm/m/n/12/7
+2 i \C70/rm/m/n/12/8d ( \C70/rm/m/n/12/57 ( \C70/rm/m/n/12/7e ¢ \C70/rm/m/n/12/
+79 ˚\OT1/cmr/m/n/12 20$\OMS/cmsy/m/n/12 ^^X$\OT1/cmr/m/n/12 30\C70/rm/m/n/12/59
+ ^^D \C70/rm/m/n/12/57 M \C70/rm/m/n/12/7f )|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n
+/12/67 ^^@ \C70/rm/m/n/12/51 H \C70/rm/m/n/12/5f b \C70/rm/m/n/12/62 ^^P \C70/r
+m/m/n/12/8f É \C70/rm/m/n/12/5c ^^O\OT1/cmr/m/n/12 (\C70/rm/m/n/12/76 ~ \C70/rm
+/m/n/12/4e ^^G \C70/rm/m/n/12/52 0 \C70/rm/m/n/12/53 C \C70/rm/m/n/12/4e ^^G \C
+70/rm/m/n/12/59 * \C70/rm/m/n/12/96 3 \C70/rm/m/n/12/8d ( \C70/rm/m/n/12/91 œ\O
+T1/cmr/m/n/12 )\C70/rm/m/n/12/76 Ñ \C70/rm/m/n/12/4f M \C70/rm/m/n/12/52 õ \C70
+/rm/m/n/12/53 ^^V \C70/rm/m/n/12/76 Ñ \C70/rm/m/n/12/7e ” \C70/rm/m/n/12/67 Ñ |
+\C70/rm/m/n/12/20 ^^T||^^T|
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3259--3261
+
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[117]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[118]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[119]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[120])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[121]
+\openout2 = `./TeX_files/chapter04.aux'.
+
+ (./TeX_files/chapter04.tex
+Á¨¨‰πùÁ´†
+
+Overfull \hbox (41.2932pt too wide) in paragraph at lines 4--17
+ [] 
+ []
+
+<const_sun.jpg, id=732, 372.64218pt x 56.46094pt>
+File: const_sun.jpg Graphic file (type jpg)
+<use const_sun.jpg>
+Package pdftex.def Info: const_sun.jpg  used on input line 19.
+(pdftex.def)             Requested size: 372.64127pt x 56.46078pt.
+<const_moon.png, id=733, 398.99063pt x 56.46094pt>
+File: const_moon.png Graphic file (type png)
+<use const_moon.png>
+Package pdftex.def Info: const_moon.png  used on input line 21.
+(pdftex.def)             Requested size: 398.98965pt x 56.46078pt.
+<const_earth.png, id=734, 377.91188pt x 38.39343pt>
+File: const_earth.png Graphic file (type png)
+<use const_earth.png>
+Package pdftex.def Info: const_earth.png  used on input line 23.
+(pdftex.def)             Requested size: 377.91095pt x 38.39333pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[122
+
+
+
+
+ <./const_sun.jpg> <./const_moon.png>]
+Overfull \hbox (16.42944pt too wide) in paragraph at lines 26--51
+ [] 
+ []
+
+<const1.png, id=739, 254.45062pt x 192.72pt>
+File: const1.png Graphic file (type png)
+<use const1.png>
+Package pdftex.def Info: const1.png  used on input line 53.
+(pdftex.def)             Requested size: 254.45pt x 192.71951pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[123 <./const_earth.png>]
+<const2.png, id=745, 281.55188pt x 72.27pt>
+File: const2.png Graphic file (type png)
+<use const2.png>
+Package pdftex.def Info: const2.png  used on input line 55.
+(pdftex.def)             Requested size: 281.55118pt x 72.2698pt.
+<const3.png, id=746, 356.83313pt x 72.27pt>
+File: const3.png Graphic file (type png)
+<use const3.png>
+Package pdftex.def Info: const3.png  used on input line 57.
+(pdftex.def)             Requested size: 356.83224pt x 72.2698pt.
+<const6.png, id=747, 216.81pt x 168.63pt>
+File: const6.png Graphic file (type png)
+<use const6.png>
+Package pdftex.def Info: const6.png  used on input line 59.
+(pdftex.def)             Requested size: 216.80946pt x 168.62958pt.
+<const5.png, id=748, 342.5297pt x 149.05687pt>
+File: const5.png Graphic file (type png)
+<use const5.png>
+Package pdftex.def Info: const5.png  used on input line 61.
+(pdftex.def)             Requested size: 342.52885pt x 149.0565pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[124 <./const1.png> <./const2.png> <./const3.png> <./const6.png>]
+<const_milky_way.jpg, id=756, 417.05812pt x 303.38344pt>
+File: const_milky_way.jpg Graphic file (type jpg)
+<use const_milky_way.jpg>
+Package pdftex.def Info: const_milky_way.jpg  used on input line 63.
+(pdftex.def)             Requested size: 417.0571pt x 303.38269pt.
+<const4.png, id=757, 395.22656pt x 242.40562pt>
+File: const4.png Graphic file (type png)
+<use const4.png>
+Package pdftex.def Info: const4.png  used on input line 66.
+(pdftex.def)             Requested size: 434.75055pt x 266.64699pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[125 <./const5.png> <./const_milky_way.jpg>]
+<Const_A.jpg, id=762, 803.0pt x 1114.1625pt>
+File: Const_A.jpg Graphic file (type jpg)
+<use Const_A.jpg>
+Package pdftex.def Info: Const_A.jpg  used on input line 68.
+(pdftex.def)             Requested size: 441.65137pt x 612.79128pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[126 <./const4.png>]
+<Const_B.jpg, id=767, 803.0pt x 1224.575pt>
+File: Const_B.jpg Graphic file (type jpg)
+<use Const_B.jpg>
+Package pdftex.def Info: Const_B.jpg  used on input line 70.
+(pdftex.def)             Requested size: 441.65137pt x 673.51834pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[127 <./Const_A.jpg>]
+<Const_C.jpg, id=772, 803.0pt x 822.07124pt>
+File: Const_C.jpg Graphic file (type jpg)
+<use Const_C.jpg>
+Package pdftex.def Info: Const_C.jpg  used on input line 72.
+(pdftex.def)             Requested size: 441.65137pt x 452.14058pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[128 <./Const_B.jpg>]
+<messier_1.jpg, id=776, 803.0pt x 1181.41376pt>
+File: messier_1.jpg Graphic file (type jpg)
+<use messier_1.jpg>
+Package pdftex.def Info: messier_1.jpg  used on input line 74.
+(pdftex.def)             Requested size: 441.65137pt x 649.77957pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[129 <./Const_C.jpg>]
+<messier_2.jpg, id=780, 803.0pt x 1284.8pt>
+File: messier_2.jpg Graphic file (type jpg)
+<use messier_2.jpg>
+Package pdftex.def Info: messier_2.jpg  used on input line 76.
+(pdftex.def)             Requested size: 441.65137pt x 706.6422pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[130 <./messier_1.jpg>]
+Overfull \vbox (3.85912pt too high) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[131 <./messier_2.jpg>]
+<messier_3.jpg, id=787, 803.0pt x 1277.77374pt>
+File: messier_3.jpg Graphic file (type jpg)
+<use messier_3.jpg>
+Package pdftex.def Info: messier_3.jpg  used on input line 78.
+(pdftex.def)             Requested size: 441.65137pt x 702.77774pt.
+<messier_4.jpg, id=788, 803.0pt x 532.99126pt>
+File: messier_4.jpg Graphic file (type jpg)
+<use messier_4.jpg>
+Package pdftex.def Info: messier_4.jpg  used on input line 80.
+(pdftex.def)             Requested size: 441.65137pt x 293.1461pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[132 <./messier_3.jpg>]
+<bxxq.jpg, id=792, 2625.81pt x 3641.605pt>
+File: bxxq.jpg Graphic file (type jpg)
+<use bxxq.jpg>
+Package pdftex.def Info: bxxq.jpg  used on input line 82.
+(pdftex.def)             Requested size: 420.13818pt x 582.66872pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[133 <./messier_4.jpg>]
+<zjhx.jpg, id=797, 803.0pt x 1168.365pt>
+File: zjhx.jpg Graphic file (type jpg)
+<use zjhx.jpg>
+Package pdftex.def Info: zjhx.jpg  used on input line 84.
+(pdftex.def)             Requested size: 441.65137pt x 642.60274pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[134 <./bxxq.jpg>]
+<ancient_1.jpg, id=801, 803.0pt x 1267.73625pt>
+File: ancient_1.jpg Graphic file (type jpg)
+<use ancient_1.jpg>
+Package pdftex.def Info: ancient_1.jpg  used on input line 86.
+(pdftex.def)             Requested size: 401.49902pt x 633.86658pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[135 <./zjhx.jpg>]
+<ancient_2.jpg, id=805, 803.0pt x 570.13pt>
+File: ancient_2.jpg Graphic file (type jpg)
+<use ancient_2.jpg>
+Package pdftex.def Info: ancient_2.jpg  used on input line 88.
+(pdftex.def)             Requested size: 441.65137pt x 313.57246pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[136 <./ancient_1.jpg>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[137 <./ancient_2.jpg>]
+Á¨¨ÂçÅÁ´†
+)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[138
+
+] (./main.aux (./TeX_files/chapter01.aux) (./TeX_files/chapter02.aux)
+(./TeX_files/chapter03.aux) (./TeX_files/chapter04.aux)) ) 
+Here is how much of TeX's memory you used:
+ 28094 strings out of 478268
+ 533856 string characters out of 5846352
+ 756643 words of memory out of 5000000
+ 45114 multiletter control sequences out of 15000+600000
+ 592312 words of font info for 480 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 88i,19n,131p,1295b,446s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/Windows/Fonts/sim
+sun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/F
+onts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/W
+indows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.t
+tf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/
+simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Window
+s/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c
+:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhe
+i.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fon
+ts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Win
+dows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc
+><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/si
+msun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/
+Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf>{d:/
+texlive/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<c:/W
+indows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.t
+tc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/
+simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Window
+s/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c
+:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhe
+i.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fon
+ts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Win
+dows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc
+><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/si
+msun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/
+Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/
+Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.
+ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts
+/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windo
+ws/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><
+c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/sims
+un.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fo
+nts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Wi
+ndows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.tt
+c><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/s
+imsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows
+/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:
+/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun
+.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Font
+s/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Wind
+ows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf>
+<c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/sim
+sun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/F
+onts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/W
+indows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.t
+tc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/
+simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Window
+s/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c
+:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhe
+i.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fon
+ts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Win
+dows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc
+><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/si
+msun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/
+Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/
+Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.
+ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts
+/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windo
+ws/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><
+c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simh
+ei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fo
+nts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Wi
+ndows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.tt
+f><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/s
+imhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows
+/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:
+/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei
+.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Font
+s/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Wind
+ows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc>
+<c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/sim
+sun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/F
+onts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/W
+indows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.t
+tc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/
+simsun.ttc><c:/Windows/Fonts/simsun.ttc><d:/texlive/texlive/2022/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmbsy10.pfb><d:/texlive/texlive/2022/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmbx12.pfb><d:/texlive/texlive/2022/texmf-dist/font
+s/type1/public/amsfonts/cm/cmbx8.pfb><d:/texlive/texlive/2022/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmex10.pfb><d:/texlive/texlive/2022/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmmi10.pfb><d:/texlive/texlive/2022/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmmi12.pfb><d:/texlive/texlive/2022/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmmi6.pfb><d:/texlive/texlive/2022/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmmi7.pfb><d:/texlive/texlive/2022/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmmi8.pfb><d:/texlive/texlive/2022/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmmib10.pfb><d:/texlive/texlive/2022/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmr10.pfb><d:/texlive/texlive/2022/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmr12.pfb><d:/texlive/texlive/2022/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmr17.pfb><d:/texlive/texlive/2022/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmr6.pfb><d:/texlive/texlive/2022/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmr7.pfb><d:/texlive/texlive/2022/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmr8.pfb><d:/texlive/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmsy10.pfb><d:/texlive/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmsy6.pfb><d:/texlive/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+sy8.pfb><d:/texlive/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/symbols
+/msbm10.pfb><d:/texlive/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfr
+m1200.pfb>
+Output written on main.pdf (144 pages, 4402639 bytes).
+PDF statistics:
+ 1517 PDF objects out of 1728 (max. 8388607)
+ 989 compressed objects within 10 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 497 words of extra memory for PDF output out of 10000 (max. 10000000)
+
